@@ -1,0 +1,628 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "about": "Over ons",
+        "services": "Diensten",
+        "portfolio": "Portfolio",
+        "contact": "Contact",
+        "language": "Taal",
+        "bookMeeting": "Meeting Boeken",
+        "careers": "Vacatures",
+        "caseStudies": "Casestudies"
+    },
+    "Hero": {
+        "title": "Alles wat je nodig hebt voor",
+        "highlight": "zakelijk succes",
+        "subtitle": "Wij zijn een team van getalenteerde ontwerpers, gecertificeerde ontwikkelaars, scherpe projectmanagers en ervaren filmproducenten.",
+        "cta": "Boek hier een meeting"
+    },
+    "About": {
+        "title": "Over ServixerSpace",
+        "description": "Leer de mensen achter de technologie kennen.",
+        "paragraph1": "ServixerSpace werkt vanuit het concept dat hoge kwaliteit de weg is naar de harten van de kijkers. En het bedrijf heeft daarom enkele van de beste en meest bekwame mensen uit de branche in het team opgenomen.",
+        "list1": "Onze passie is het creëren van onafhankelijke digitale oplossingen die onze klanten helpen hun doelen te bereiken.",
+        "list2": "Onze competenties zijn strategie, advies en analyse evenals digitale ontwikkeling, ontwerp en filmproductie.",
+        "list3": "Onze ambitie is om veilige en transparante samenwerkingen te creëren die gebaseerd zijn op waardecreatie en vertrouwen.",
+        "quote": "Als klant bij ServixerSpace moet u kwaliteit en vertrouwen ervaren vanaf de eerste ontmoeting en gedurende de hele samenwerking. We hebben een analytische aanpak – en winnen klanten omdat we hun bedrijf en hun uitdagingen begrijpen.",
+        "readMore": "Lees meer"
+    },
+    "Services": {
+        "title": "Onze Diensten",
+        "subtitle": "Wij bieden een breed scala aan digitale oplossingen op maat van uw behoeften."
+    },
+    "Stats": {
+        "clients": "Tevreden Klanten",
+        "projects": "Projecten",
+        "years": "Jaren Ervaring",
+        "awards": "Prijzen",
+        "quality": "Premium Kwaliteit",
+        "qualityDesc": "Pixel-perfecte ontwerpen en robuuste code.",
+        "delivery": "Agile Levering",
+        "deliveryDesc": "Snelle levering zonder concessies te doen aan de kwaliteit.",
+        "support": "24/7 Support",
+        "supportDesc": "Wij zijn er altijd wanneer u ons nodig heeft.",
+        "experts": "Gecertificeerd Team",
+        "expertsDesc": "Een team van toegewijde professionals uit de industrie."
+    },
+    "Process": {
+        "title": "Hoe Wij Werken",
+        "subtitle": "Ons bewezen proces in 4 stappen garandeert transparantie en kwaliteit van begin tot eind.",
+        "step1Title": "Ontdekking",
+        "step1Desc": "We beginnen met het begrijpen van uw bedrijf, doelstellingen en doelgroep.",
+        "step2Title": "Strategie & Ontwerp",
+        "step2Desc": "We maken een stappenplan en ontwerpprototypes die aansluiten bij uw visie.",
+        "step3Title": "Ontwikkeling",
+        "step3Desc": "Onze ontwikkelaars bouwen uw oplossing met moderne, schaalbare technologieën.",
+        "step4Title": "Lancering & Groei",
+        "step4Desc": "We lanceren uw project en helpen u groeien met datagestuurde inzichten."
+    },
+    "Partners": {
+        "title": "Vertrouwd Door",
+        "subtitle": "We zijn er trots op om met geweldige bedrijven samen te werken."
+    },
+    "Portfolio": {
+        "title": "Portfolio",
+        "subtitle": "Wij zetten visies om in digitale realiteit. Bekijk een glimp van onze creaties.",
+        "filters": {
+            "all": "Alles",
+            "web": "Web App",
+            "ecommerce": "E-Commerce",
+            "saas": "SaaS",
+            "game": "Game",
+            "tools": "3D Tools"
+        }
+    },
+    "Team": {
+        "title": "Team",
+        "description": "We zijn bij ServixerSpace ontzettend blij met ons team, dat vol zit met bekwame en behulpzame medewerkers. Aarzel niet om contact met ons op te nemen als u vragen heeft."
+    },
+    "Cta": {
+        "title": "We houden van ons werk!",
+        "description": "ServixerSpace houdt ervan om bedrijven te helpen meer klanten te krijgen. Daarom zijn we gepassioneerd over het identificeren van de behoeften van onze klanten en het bieden van langdurige ondersteuning.",
+        "button": "Boek Nu een Meeting"
+    },
+    "Contact": {
+        "title": "Contact",
+        "description": "Als u contact met ons wilt opnemen, heeft u verschillende opties. We staan klaar om u zowel online als op ons kantoor in Odense C te helpen.",
+        "locationTitle": "Locatie:",
+        "locationText": "Skibhusvej 109, Odense, Denemarken",
+        "emailTitle": "Email:",
+        "emailText": "info@servixerspace.com",
+        "phoneTitle": "Bel:",
+        "phoneText": "+45 42 22 31 10",
+        "formName": "Uw Naam",
+        "formEmail": "Uw Email",
+        "formSubject": "Onderwerp",
+        "formMessage": "Bericht",
+        "formButton": "Verstuur Bericht",
+        "offerTitle": "Krijg een prijsindicatie voor uw project",
+        "offerDesc": "We staan klaar om zowel grote als kleine taken op te lossen. Bel Franz op +45 26 27 49 72 of vul het formulier in, en we komen zo snel mogelijk bij u terug.",
+        "taskDescLabel": "Beschrijf uw taak",
+        "taskDescPlaceholder": "(Verplicht)",
+        "fileUploadLabel": "Bestand uploaden (optioneel)",
+        "dropFileText": "Sleep bestand hierheen of",
+        "chooseFileText": "Kies bestanden",
+        "noFileChosen": "Geen bestand gekozen",
+        "fileLimits": "Max. bestandsgrootte: 100 MB, Max. bestanden: 25."
+    },
+    "Faq": {
+        "title": "Veelgestelde Vragen",
+        "subtitle": "Alles wat u moet weten over het werken met ons.",
+        "q1Title": "Hoe lang duurt een typisch project?",
+        "q1Desc": "De tijdlijn hangt af van de complexiteit van het project. Een standaard website duurt doorgaans 4-6 weken, terwijl complexere apps of software 3-6 maanden kunnen duren. Tijdens de ontdekkingsfase bieden we een gedetailleerde tijdlijn.",
+        "q2Title": "Wat is jullie prijsmodel?",
+        "q2Desc": "We bieden zowel offertes met een vaste prijs als overeenkomsten op uurbasis, afhankelijk van wat het beste bij uw behoeften past. We geloven in transparantie, dus er zijn geen verborgen kosten.",
+        "q3Title": "Bieden jullie ondersteuning na lancering?",
+        "q3Desc": "Absoluut. We bieden verschillende onderhoudspakketten om ervoor te zorgen dat uw digitale product na lancering veilig, up-to-date en geoptimaliseerd blijft.",
+        "q4Title": "Kunnen jullie helpen met branding/marketing?",
+        "q4Desc": "Ja! Wij zijn een full-service bureau. We kunnen alles aanpakken, van logo-ontwerp en merkidentiteit tot SEO, social media marketing en contentstrategie."
+    },
+    "Blog": {
+        "title": "Laatste Inzichten",
+        "subtitle": "Nieuws, trends en expertise van ons team.",
+        "readMore": "Lees Artikel"
+    },
+    "Footer": {
+        "address": "Skibhusvej 109, 5000 Odense, Denemarken",
+        "phone": "+45 42 22 31 10",
+        "email": "servixerspace@gmail.com",
+        "usefulLinks": "Nuttige Links",
+        "servicesLinks": "Onze Diensten",
+        "newsletter": "Nieuwsbrief",
+        "newsletterText": "Schrijf u in voor onze nieuwsbrief om de laatste updates te ontvangen.",
+        "subscribe": "Inschrijven",
+        "copyright": "Servixer Space",
+        "careers": "Vacatures",
+        "caseStudies": "Casestudies"
+    },
+    "Common": {
+        "bookMeeting": "Boek Nu een Meeting"
+    },
+    "ServiceDetails": {
+        "web": {
+            "title": "Webdesign & Ontwikkeling",
+            "subtitle": "Wij creëren op maat gemaakte, hoog-converterende websites met behulp van de nieuwste technologieën zoals React en Next.js, gecombineerd met verbluffend, gebruikersgericht ontwerp.",
+            "overviewTitle": "Ontwerp Ontmoet Technologie",
+            "description": "Wij bouwen niet alleen websites; wij creëren digitale ervaringen. Door professioneel webdesign te combineren met robuuste ontwikkeling, zorgen we ervoor dat uw site niet alleen mooi is, maar ook snel, veilig en schaalbaar. Of u nu een eenvoudige landingspagina nodig heeft of een complex bedrijfsportaal, wij dekken zowel de visuele als de technische aspecten naadloos.",
+            "featuresTitle": "Waarom voor ons kiezen?",
+            "features": [
+                {
+                    "title": "Aangepast Ontwerp",
+                    "desc": "Unieke lay-outs die specifiek zijn ontworpen voor uw merkidentiteit, nooit generieke sjablonen."
+                },
+                {
+                    "title": "Hoge Prestaties",
+                    "desc": "Gebouwd op moderne frameworks voor bliksemsnelle laadtijden en SEO-voordeel."
+                },
+                {
+                    "title": "Responsive & Mobile-First",
+                    "desc": "Vlekkeloze ervaring op alle apparaten, van desktopschermen tot smartphones."
+                },
+                {
+                    "title": "Gebruikersgerichte UX",
+                    "desc": "Navigatie en structuur ontworpen om bezoekers om te zetten in loyale klanten."
+                }
+            ],
+            "processTitle": "Ons Proces",
+            "process": [
+                {
+                    "title": "Ontdekking",
+                    "desc": "We luisteren naar uw behoeften, begrijpen uw merk en definiëren de reikwijdte van het project."
+                },
+                {
+                    "title": "Ontwerp & Prototype",
+                    "desc": "We maken visuele mockups en wireframes voor uw goedkeuring voordat we ook maar één regel code schrijven."
+                },
+                {
+                    "title": "Ontwikkeling",
+                    "desc": "We bouwen de site met schone, semantische code, waarbij we best practices en prestaties garanderen."
+                },
+                {
+                    "title": "Lancering & Ondersteuning",
+                    "desc": "We handelen de implementatie af en bieden doorlopende ondersteuning om uw site soepel te laten draaien."
+                }
+            ],
+            "ctaTitle": "Klaar voor een nieuwe website?",
+            "ctaDesc": "Laten we samen iets geweldigs bouwen."
+        },
+        "app": {
+            "title": "App Ontwikkeling",
+            "subtitle": "Native en cross-platform mobiele applicaties voor iOS en Android die waarde en betrokkenheid creëren voor uw bedrijf.",
+            "overviewTitle": "Mobile-First Oplossingen",
+            "description": "Wij bouwen mobiele apps van hoge kwaliteit waar gebruikers dol op zijn. Van concept tot lancering, wij handelen alles af—UI/UX ontwerp, ontwikkeling en implementatie in app stores. We zorgen ervoor dat uw app intuïtief, snel en schaalbaar is.",
+            "featuresTitle": "Belangrijkste Kenmerken",
+            "features": [
+                {
+                    "title": "Cross-Platform",
+                    "desc": "Eén codebase voor zowel iOS als Android met behulp van technologieën zoals React Native."
+                },
+                {
+                    "title": "Native Prestaties",
+                    "desc": "Vloeiende animaties en snelle reactietijden die echt native aanvoelen."
+                },
+                {
+                    "title": "Schaalbare Architectuur",
+                    "desc": "Gebouwd om mee te groeien met uw gebruikersbestand zonder concessies te doen aan de prestaties."
+                },
+                {
+                    "title": "App Store Optimalisatie",
+                    "desc": "Wij helpen u ontdekt te worden in de App Store en Google Play."
+                }
+            ],
+            "processTitle": "Ontwikkelingstraject",
+            "process": [
+                {
+                    "title": "Concept",
+                    "desc": "We verfijnen uw idee en definiëren de kernfuncties en de gebruikersflow."
+                },
+                {
+                    "title": "Ontwerp",
+                    "desc": "We creëren intuïtieve UI/UX-ontwerpen die aansluiten bij mobiele best practices."
+                },
+                {
+                    "title": "Ontwikkeling",
+                    "desc": "Ons team bouwt de app met schone, onderhoudbare code."
+                },
+                {
+                    "title": "Lancering",
+                    "desc": "We begeleiden u door het indieningsproces voor Apple en Google stores."
+                }
+            ],
+            "ctaTitle": "Heeft u een app-idee?",
+            "ctaDesc": "Laten we uw concept werkelijkheid maken."
+        },
+        "marketing": {
+            "title": "Digitale Marketing & SEO",
+            "subtitle": "Een uitgebreide aanpak van online zichtbaarheid. We combineren datagestuurde SEO-strategieën met effectief social media management om uw bedrijf te laten groeien.",
+            "overviewTitle": "Verover de Digitale Ruimte",
+            "description": "Onze Digitale Marketing service is een krachtige hybride van SEO (Search Engine Optimization), Social Media Management (SoMe) en gerichte advertenties. We krijgen niet alleen verkeer voor u; we krijgen het *juiste* verkeer. Van de nummer 1 positie op Google tot het betrekken van publiek op Instagram en LinkedIn, wij beheren uw volledige digitale voetafdruk.",
+            "featuresTitle": "Onze Strategieën",
+            "features": [
+                {
+                    "title": "Geavanceerde SEO",
+                    "desc": "Zoekwoordstrategie, technische optimalisatie en linkbuilding om uw Google-rankings te verhogen."
+                },
+                {
+                    "title": "Social Media Management",
+                    "desc": "Creëren van boeiende inhoud en community management voor platforms zoals Instagram, LinkedIn en Facebook."
+                },
+                {
+                    "title": "Content Marketing",
+                    "desc": "Waardevolle inhoud die een duidelijk gedefinieerd publiek aantrekt en vasthoudt."
+                },
+                {
+                    "title": "Data-analyse",
+                    "desc": "Continue monitoring en rapportage om strategieën te verfijnen en ROI te maximaliseren."
+                }
+            ],
+            "processTitle": "Groeiproces",
+            "process": [
+                {
+                    "title": "Audit & Strategie",
+                    "desc": "We analyseren uw huidige aanwezigheid en concurrenten om een winnend plan te maken."
+                },
+                {
+                    "title": "Optimalisatie",
+                    "desc": "We lossen technische problemen op en optimaliseren uw profielen en website voor zichtbaarheid."
+                },
+                {
+                    "title": "Inhoud & Outreach",
+                    "desc": "We voeren het inhoudsplan uit en beginnen met het opbouwen van autoriteit door outreach."
+                },
+                {
+                    "title": "Schalen",
+                    "desc": "We analyseren de data en schalen de campagnes die resultaten opleveren."
+                }
+            ],
+            "ctaTitle": "Klaar om te groeien?",
+            "ctaDesc": "Vraag vandaag nog een gratis digitale marketing analyse aan."
+        },
+        "software": {
+            "title": "Softwareontwikkeling op Maat",
+            "subtitle": "Op maat gemaakte softwareoplossingen, ontworpen om uw unieke bedrijfsprocessen te stroomlijnen en de efficiëntie te verbeteren.",
+            "overviewTitle": "Gebouwd voor Uw Bedrijf",
+            "description": "Standaardsoftware schiet vaak tekort. Wij bouwen softwareoplossingen op maat—van interne dashboards en CRM-systemen tot automatiseringstools—die perfect aansluiten bij uw workflow. We richten ons op het oplossen van uw specifieke zakelijke uitdagingen met robuuste, veilige technologie.",
+            "featuresTitle": "Waarom Software op Maat?",
+            "features": [
+                {
+                    "title": "Perfecte Pasvorm",
+                    "desc": "Functies die precies voor uw behoeften zijn ontworpen, zonder onnodige ballast."
+                },
+                {
+                    "title": "Integratie",
+                    "desc": "Verbindt naadloos met uw bestaande tools en API's."
+                },
+                {
+                    "title": "Veiligheid",
+                    "desc": "Gebouwd met beveiligingsstandaarden van ondernemingsniveau om uw gegevens te beschermen."
+                },
+                {
+                    "title": "Eigendom",
+                    "desc": "U bezit de code en het intellectueel eigendom, geen terugkerende licentiekosten."
+                }
+            ],
+            "processTitle": "Hoe Wij Bouwen",
+            "process": [
+                {
+                    "title": "Analyse",
+                    "desc": "We brengen uw huidige workflows in kaart en identificeren knelpunten."
+                },
+                {
+                    "title": "Architectuur",
+                    "desc": "We ontwerpen een schaalbare systeemarchitectuur die is afgestemd op uw doelen."
+                },
+                {
+                    "title": "Agile Ontwikkeling",
+                    "desc": "We bouwen in iteratieve sprints, waardoor u zichtbaarheid en feedbackloops krijgt."
+                },
+                {
+                    "title": "Implementatie",
+                    "desc": "We implementeren de oplossing en trainen uw team om deze effectief te gebruiken."
+                }
+            ],
+            "ctaTitle": "Heeft u een oplossing op maat nodig?",
+            "ctaDesc": "Vertel ons over uw uitdagingen, en wij bouwen de oplossing."
+        },
+        "graphic": {
+            "title": "Creatief Grafisch Ontwerp",
+            "subtitle": "Van logo's tot complete visuele identiteiten, wij creëren verbluffende graphics die het verhaal van uw merk vertellen.",
+            "overviewTitle": "Visuele Impact",
+            "description": "Uw visuele identiteit is het gezicht van uw bedrijf. Wij creëren originele, gedenkwaardige ontwerpen voor zowel print als digitale media. Of u nu een nieuw logo, visitekaartjes, brochures of social media assets nodig heeft, ons creatieve team zorgt ervoor dat uw merk er professioneel en consistent uitziet.",
+            "featuresTitle": "Ontwerpdiensten",
+            "features": [
+                {
+                    "title": "Merkidentiteit",
+                    "desc": "Logo's, typografie en kleurenpaletten die uw merk definiëren."
+                },
+                {
+                    "title": "Marketingmateriaal",
+                    "desc": "Brochures, folders, posters en digitale advertenties die de aandacht trekken."
+                },
+                {
+                    "title": "UI Elementen",
+                    "desc": "Pictogrammen, knoppen en illustraties voor uw digitale producten."
+                },
+                {
+                    "title": "Print Ontwerp",
+                    "desc": "Bestanden van hoge kwaliteit, klaar voor druk, voor al uw fysieke middelen."
+                }
+            ],
+            "processTitle": "Creatief Proces",
+            "process": [
+                {
+                    "title": "Briefing",
+                    "desc": "We bespreken uw visie, stijlvoorkeuren en doelgroep."
+                },
+                {
+                    "title": "Conceptontwikkeling",
+                    "desc": "We maken moodboards en eerste schetsen om richtingen te verkennen."
+                },
+                {
+                    "title": "Verfijning",
+                    "desc": "We polijsten het gekozen concept op basis van uw feedback."
+                },
+                {
+                    "title": "Levering",
+                    "desc": "We leveren alle bronbestanden en formaten die u nodig heeft voor print en web."
+                }
+            ],
+            "ctaTitle": "Heeft u een ontwerper nodig?",
+            "ctaDesc": "Laten we ervoor zorgen dat uw merk er van wereldklasse uitziet."
+        },
+        "video": {
+            "title": "Videoproductie",
+            "subtitle": "Professionele video- en animatieproductie die de aandacht trekt en uw verhaal effectief vertelt.",
+            "overviewTitle": "Verhalen Vertellen in Beweging",
+            "description": "Video is de meest boeiende vorm van inhoud. Wij produceren video's van hoge kwaliteit, van bedrijfsuitleg en reclamespots tot social media snippets en animaties. Wij beheren de volledige productiepipeline en zorgen voor een filmisch resultaat dat aansluit bij uw marketingdoelen.",
+            "featuresTitle": "Productiediensten",
+            "features": [
+                {
+                    "title": "Reclamespots",
+                    "desc": "High-end reclamespots voor TV en online adverteren."
+                },
+                {
+                    "title": "Animatie",
+                    "desc": "2D en 3D motion graphics om complexe concepten eenvoudig uit te legggen."
+                },
+                {
+                    "title": "Bedrijfsvideo",
+                    "desc": "Interviews, rondleidingen op kantoor en video's over bedrijfscultuur."
+                },
+                {
+                    "title": "Post-Productie",
+                    "desc": "Professionele montage, kleurbewerking en geluidsontwerp."
+                }
+            ],
+            "processTitle": "Productiestappen",
+            "process": [
+                {
+                    "title": "Pre-Productie",
+                    "desc": "Scriptschrijven, storyboarding en planning van de opname."
+                },
+                {
+                    "title": "Productie",
+                    "desc": "Filmen met professionele camera's, verlichting en audioapparatuur."
+                },
+                {
+                    "title": "Post-Productie",
+                    "desc": "Montage, toevoegen van effecten en polijsten van de definitieve versie."
+                },
+                {
+                    "title": "Levering",
+                    "desc": "Levering van de definitieve video in de formaten die u nodig heeft."
+                }
+            ],
+            "ctaTitle": "Start met Filmen",
+            "ctaDesc": "Laten we uw verhaal tot leven brengen op het scherm."
+        }
+    },
+    "Booking": {
+        "title": "Boek een Discovery Call",
+        "subtitle": "Laten we bespreken hoe we uw bedrijf kunnen helpen groeien. Kies een tijdstip dat u uitkomt.",
+        "steps": {
+            "service": "Dienst",
+            "date": "Datum & Tijd",
+            "details": "Details",
+            "done": "Bevestiging"
+        },
+        "services": {
+            "title": "Waarmee kunnen we u helpen?",
+            "web": "Webontwikkeling",
+            "app": "App Ontwikkeling",
+            "marketing": "Digitale Marketing",
+            "other": "Anders / Advies"
+        },
+        "calendar": {
+            "title": "Kies een Datum",
+            "timeTitle": "Kies een Tijdstip"
+        },
+        "form": {
+            "title": "Uw Informatie",
+            "name": "Volledige Naam",
+            "email": "Emailadres",
+            "company": "Bedrijfsnaam (Optioneel)",
+            "submit": "Bevestig Boeking"
+        },
+        "success": {
+            "title": "Boeking Ontvangen!",
+            "subtitle": "We hebben een bevestiging naar uw email gestuurd. We kijken ernaar uit om u te spreken.",
+            "home": "Terug naar Home"
+        }
+    },
+    "Privacy": {
+        "title": "Privacybeleid",
+        "lastUpdated": "Laatst bijgewerkt: 1 januari 2026",
+        "intro": "Bij ServixerSpace zetten we ons in om uw privacy te beschermen en uw persoonlijke gegevens transparant en veilig te verwerken. Dit privacybeleid legt uit hoe we uw persoonlijke informatie verzamelen, gebruiken, opslaan en beschermen wanneer u onze website of diensten gebruikt.",
+        "sections": {
+            "1": {
+                "title": "1. Informatie die we verzamelen",
+                "content": "We kunnen de volgende soorten persoonlijke gegevens verzamelen en verwerken:\n• Naam, e-mailadres, telefoonnummer\n• Bedrijfsnaam en projectdetails (indien verstrekt)\n• Berichten en communicatie verzonden via contactformulieren of e-mail\n• Informatie over nieuwsbriefabonnementen\n• Technische gegevens zoals IP-adres, browsertype, apparaatinformatie en gebruiksgegevens\n\nWe verzamelen alleen persoonlijke gegevens die noodzakelijk zijn voor legitieme zakelijke doeleinden."
+            },
+            "2": {
+                "title": "2. Hoe we informatie verzamelen",
+                "content": "We verzamelen persoonlijke gegevens wanneer u:\n• Contact met ons opneemt via formulieren, e-mail of telefoon\n• Een vergadering boekt of een dienst aanvraagt\n• Zich abonneert op onze nieuwsbrief\n• Interactie heeft met onze website\n\nSommige technische gegevens kunnen automatisch worden verzameld via cookies en analysetools."
+            },
+            "3": {
+                "title": "3. Hoe we uw informatie gebruiken",
+                "content": "We gebruiken uw persoonlijke gegevens om:\n• Onze diensten te leveren en te beheren\n• Met u te communiceren over vragen of projecten\n• Onze website, diensten en gebruikerservaring te verbeteren\n• Relevante updates, aanbiedingen of nieuwsbrieven te verzenden (alleen met uw toestemming)\n• Veiligheid te waarborgen en fraude te voorkomen\n\nWe verwerken uw gegevens op basis van legitiem belang, contractuele noodzaak of uw toestemming, in overeenstemming met de GDPR."
+            },
+            "4": {
+                "title": "4. Informatie delen",
+                "content": "Wij verkopen, verhuren of verhandelen uw persoonlijke gegevens niet.\n\nUw gegevens kunnen alleen worden gedeeld met:\n• Vertrouwde dienstverleners (hosting, e-mail, analyse)\n• Wettelijke of regelgevende instanties indien wettelijk vereist\n\nAlle derde partijen zijn verplicht om te voldoen aan de regelgeving inzake gegevensbescherming."
+            },
+            "5": {
+                "title": "5. Gegevensopslag en beveiliging",
+                "content": "We implementeren passende technische en organisatorische maatregelen om uw persoonlijke gegevens te beschermen tegen ongeoorloofde toegang, wijziging, openbaarmaking of vernietiging.\n\nUw persoonlijke gegevens worden alleen opgeslagen zolang als nodig is om de doeleinden te vervullen die in dit beleid worden beschreven of zoals wettelijk vereist."
+            },
+            "6": {
+                "title": "6. Cookies",
+                "content": "Onze website kan cookies gebruiken om de gebruikerservaring te verbeteren en de prestaties van de website te analyseren.\n\nU kunt cookies beheren of uitschakelen via uw browserinstellingen. Voortgezet gebruik van onze website impliceert toestemming voor ons gebruik van cookies."
+            },
+            "7": {
+                "title": "7. Uw gegevensbeschermingsrechten (GDPR)",
+                "content": "Als inwoner van de EU heeft u het recht om:\n• Toegang te krijgen tot uw persoonlijke gegevens\n• Correctie of verwijdering van uw gegevens aan te vragen\n• Gegevensverwerking te beperken of er bezwaar tegen te maken\n• Toestemming op elk moment in te trekken\n• Gegevensoverdraagbaarheid aan te vragen\n• Een klacht in te dienen bij een gegevensbeschermingsautoriteit\n\nOm deze rechten uit te oefenen, neem contact met ons op via de onderstaande gegevens."
+            },
+            "8": {
+                "title": "8. Links van derden",
+                "content": "Onze website kan links bevatten naar externe websites. Wij zijn niet verantwoordelijk voor het privacybeleid of de inhoud van websites van derden."
+            },
+            "9": {
+                "title": "9. Wijzigingen in dit beleid",
+                "content": "We kunnen dit privacybeleid van tijd tot tijd bijwerken. Eventuele wijzigingen worden op deze pagina geplaatst met een bijgewerkte herzieningsdatum."
+            },
+            "10": {
+                "title": "10. Contactinformatie",
+                "content": "Als u vragen heeft over dit privacybeleid of hoe wij uw persoonlijke gegevens verwerken, neem dan contact met ons op:\n\nServixerSpace\nSkibhusvej 109\n5000 Odense, Denemarken\n\n📧 E-mail: servixerspace@gmail.com\n📞 Telefoon: +45 42 22 31 10"
+            },
+            "11": {
+                "title": "11. Bedrijfsinformatie",
+                "content": "Juridische Naam: ServixerSpace\nCVR Nummer: 38804596\nCVRP Nummer: 1026842499\nOprichtingsdatum: 24 februari 2021\nBedrijfstype: Productie Eenheid\nIndustrie: 741200 – Grafisch Ontwerp en Visuele Communicatie"
+            }
+        }
+    },
+    "Terms": {
+        "title": "Gebruiksvoorwaarden",
+        "lastUpdated": "Laatst bijgewerkt: 1 januari 2026",
+        "intro": "Welkom bij ServixerSpace. Door toegang te krijgen tot of gebruik te maken van onze website en diensten, gaat u akkoord met de volgende gebruiksvoorwaarden.",
+        "sections": {
+            "1": {
+                "title": "Gebruik van diensten",
+                "content": "U gaat ermee akkoord onze diensten alleen voor wettige doeleinden en in overeenstemming met de toepasselijke wet- en regelgeving te gebruiken."
+            },
+            "2": {
+                "title": "Intellectueel eigendom",
+                "content": "Alle inhoud, ontwerpen, afbeeldingen, tekst, video's en code op deze website zijn eigendom van ServixerSpace, tenzij anders vermeld. Ongeoorloofd gebruik is verboden."
+            },
+            "3": {
+                "title": "Verantwoordelijkheden van de klant",
+                "content": "Klanten zijn verantwoordelijk voor het verstrekken van nauwkeurige informatie en noodzakelijke materialen die vereist zijn om diensten te verlenen."
+            },
+            "4": {
+                "title": "Betalingen & Projecten",
+                "content": "Betalingsvoorwaarden, projectomvang, tijdlijnen en resultaten worden individueel overeengekomen in schriftelijke overeenkomsten of voorstellen."
+            },
+            "5": {
+                "title": "Beperking van aansprakelijkheid",
+                "content": "ServixerSpace is niet aansprakelijk voor enige indirecte, incidentele of gevolgschade die voortvloeit uit het gebruik van onze diensten of website."
+            },
+            "6": {
+                "title": "Beëindiging",
+                "content": "We behouden ons het recht voor om de toegang tot onze diensten op te schorten of te beëindigen als deze voorwaarden worden geschonden."
+            },
+            "7": {
+                "title": "Wijzigingen in voorwaarden",
+                "content": "We kunnen deze gebruiksvoorwaarden op elk moment bijwerken. Voortgezet gebruik van onze diensten vormt acceptatie van de bijgewerkte voorwaarden."
+            },
+            "8": {
+                "title": "Toepasselijk recht",
+                "content": "Deze voorwaarden worden beheerst door de wetten van Denemarken."
+            },
+            "9": {
+                "title": "Bedrijfsinformatie",
+                "content": "Juridische Naam: ServixerSpace\nCVR Nummer: 38804596\nCVRP Nummer: 1026842499\nOprichtingsdatum: 24 februari 2021\nBedrijfstype: Productie Eenheid\nIndustrie: 741200 – Grafisch Ontwerp en Visuele Communicatie"
+            }
+        }
+    },
+    "NotFound": {
+        "title": "Pagina Niet Gevonden",
+        "description": "Sorry, we konden de pagina die je zoekt niet vinden. Het is mogelijk verplaatst of bestaat niet.",
+        "backButton": "Terug naar Home"
+    },
+    "CompanyInfo": {
+        "title": "Bedrijfsinformatie",
+        "legalName": "Juridische Naam: ServixerSpace",
+        "cvr": "CVR Nummer: 38804596",
+        "cvrp": "CVRP Nummer: 1026842499",
+        "established": "Oprichtingsdatum: 24 februari 2021",
+        "type": "Bedrijfstype: Productie Eenheid",
+        "industry": "Industrie: 741200 – Grafisch Ontwerp en Visuele Communicatie"
+    },
+    "Careers": {
+        "title": "Kom bij ons team",
+        "subtitle": "Bouwen aan de toekomst van digitale ervaringen",
+        "description": "Bij ServixerSpace bouwen we niet alleen websites; we creëren digitale nalatenschappen. We zijn op zoek naar gepassioneerde vernieuwers om ons remote-first team te versterken.",
+        "benefitsTitle": "Waarom bij ons werken?",
+        "benefits": {
+            "1": "Remote-First Cultuur",
+            "2": "Concurrerend Salaris",
+            "3": "Leren & Ontwikkelen",
+            "4": "Flexibele Uren"
+        },
+        "openingsTitle": "Openstaande Functies",
+        "apply": "Nu Solliciteren",
+        "noOpenings": "Momenteel geen specifieke vacatures, maar we zijn altijd op zoek naar talent. Stuur ons je portfolio!",
+        "jobs": {
+            "1": {
+                "title": "Senior Frontend Developer",
+                "type": "Fulltime",
+                "location": "Remote",
+                "description": "We hebben een React/Next.js expert nodig om onze frontend architectuur te leiden."
+            },
+            "2": {
+                "title": "UI/UX Designer",
+                "type": "Contract",
+                "location": "Remote",
+                "description": "Creëer verbluffende, gebruikersgerichte ontwerpen voor onze wereldwijde klanten."
+            }
+        }
+    },
+    "CaseStudies": {
+        "title": "Casestudies",
+        "subtitle": "Onze Impact in Cijfers & Verhalen",
+        "description": "Zie hoe we bedrijven hebben geholpen hun digitale aanwezigheid te transformeren en meetbare ROI te behalen.",
+        "problem": "Het Probleem",
+        "solution": "De Oplossing",
+        "result": "Het Resultaat",
+        "readMore": "Lees Volledige Casestudie",
+        "studies": {
+            "1": {
+                "title": "Authentieke Digitale Ervaring",
+                "client": "Den Italienske Isbutik",
+                "problem": "Een geliefde lokale ijssalon die een digitale aanwezigheid miste die overeenkwam met hun eersteklas authentieke kwaliteit.",
+                "solution": "Ontwikkelde een krachtige Gatsby-site met Contentful CMS, met rijke visuals en een meeslepend merkverhaal.",
+                "result": "Vestigde een sterke online merkidentiteit en verhoogde het aantal bezoekers en cateringaanvragen aanzienlijk."
+            },
+            "2": {
+                "title": "Bedrijfsbeheerplatform",
+                "client": "Buddyhood",
+                "problem": "Bedrijven worstelden met gefragmenteerde tools voor beheer, wat leidde tot inefficiëntie en datasilo's.",
+                "solution": "Bouwde een uitgebreid beheerplatform met behulp van Vue.js en Laravel, waarbij meerdere bedrijfsfuncties in één intuïtieve interface werden geïntegreerd.",
+                "result": "Stroomlijnde operaties voor gebruikers, verminderde administratieve tijd met 40% en verbeterde de toegankelijkheid van data."
+            },
+            "3": {
+                "title": "Alles-in-één Reis-ecosysteem",
+                "client": "ExploreEase",
+                "problem": "Reizigers worstelen met gefragmenteerde planningstools, terwijl bedrijven een uniform platform missen om hen direct te bereiken.",
+                "solution": "Ontwikkelde een schaalbaar ecosysteem met geïntegreerde Admin-, Gebruikers- en B2B-systemen voor naadloze planning en directe verkoop.",
+                "result": "Vereenvoudigde reisplanning, opende nieuwe B2B-verkoopkanalen en maakte centraal platformbeheer mogelijk."
+            },
+            "4": {
+                "title": "Stedelijke Mobiliteit Super App",
+                "client": "Triply",
+                "problem": "Stadsbewoners vertrouwen op meerdere losstaande apps voor vervoer, maaltijdbezorging en koeriersdiensten, wat leidt tot frictie en inefficiëntie.",
+                "solution": "Ontwerp en ontwikkeling van een moderne super-app die ritten, eten en bezorging samenbrengt in één naadloos ecosysteem met speciale systemen voor gebruikers, chauffeurs en handelaars.",
+                "result": "Vereenvoudigd stadsleven voor gebruikers, nieuwe inkomstenmogelijkheden voor chauffeurs gecreëerd en schaalbare digitale groei voor lokale bedrijven mogelijk gemaakt."
+            }
+        }
+    }
+}

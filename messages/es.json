@@ -1,0 +1,628 @@
+{
+    "Navbar": {
+        "home": "Inicio",
+        "about": "Nosotros",
+        "services": "Servicios",
+        "portfolio": "Portafolio",
+        "contact": "Contacto",
+        "language": "Idioma",
+        "bookMeeting": "Reservar",
+        "careers": "Carreras",
+        "caseStudies": "Casos de Estudio"
+    },
+    "Hero": {
+        "title": "Todo lo que necesitas para",
+        "highlight": "el éxito de tu negocio",
+        "subtitle": "Somos un equipo de diseñadores talentosos, desarrolladores certificados, gestores de proyectos perspicaces y productores de cine experimentados.",
+        "cta": "Reserva una reunión aquí"
+    },
+    "About": {
+        "title": "Sobre ServixerSpace",
+        "description": "Conoce a las personas detrás de la tecnología.",
+        "paragraph1": "ServixerSpace trabaja con la idea de que la alta calidad es el camino hacia el corazón de los espectadores. Es por eso que la empresa ha asegurado a algunas de las mejores y más hábiles personas de la industria en su equipo.",
+        "list1": "Nuestra pasión es crear soluciones digitales independientes que ayuden a nuestros clientes a alcanzar sus metas.",
+        "list2": "Nuestras competencias son estrategia, consultoría y análisis, así como desarrollo digital, diseño y producción de cine.",
+        "list3": "Nuestra ambición es crear colaboraciones seguras y transparentes basadas en la creación de valor y la confianza.",
+        "quote": "Como cliente de ServixerSpace, debes experimentar calidad y confianza desde la primera reunión y a lo largo de toda la colaboración. Tenemos un enfoque analítico, y ganamos clientes porque entendemos su negocio y sus desafíos.",
+        "readMore": "Leer más"
+    },
+    "Services": {
+        "title": "Nuestros Servicios",
+        "subtitle": "Ofrecemos una amplia gama de soluciones digitales adaptadas a tus necesidades."
+    },
+    "Stats": {
+        "clients": "Clientes Satisfechos",
+        "projects": "Proyectos",
+        "years": "Años de Experiencia",
+        "awards": "Premios",
+        "quality": "Calidad Premium",
+        "qualityDesc": "Diseños perfectos píxel a píxel y código robusto.",
+        "delivery": "Entrega Ágil",
+        "deliveryDesc": "Entrega rápida sin comprometer la calidad.",
+        "support": "Soporte 24/7",
+        "supportDesc": "Siempre estamos aquí cuando nos necesitas.",
+        "experts": "Equipo Certificado",
+        "expertsDesc": "Un equipo de profesionales dedicados de la industria."
+    },
+    "Process": {
+        "title": "Cómo Trabajamos",
+        "subtitle": "Nuestro probado proceso de 4 pasos garantiza transparencia y calidad de principio a fin.",
+        "step1Title": "Descubrimiento",
+        "step1Desc": "Comenzamos por entender tu negocio, objetivos y público objetivo.",
+        "step2Title": "Estrategia y Diseño",
+        "step2Desc": "Creamos una hoja de ruta y prototipos de diseño que se alinean con tu visión.",
+        "step3Title": "Desarrollo",
+        "step3Desc": "Nuestros desarrolladores construyen tu solución utilizando tecnologías modernas y escalables.",
+        "step4Title": "Lanzamiento y Crecimiento",
+        "step4Desc": "Lanzamos tu proyecto y te ayudamos a crecer con conocimientos basados en datos."
+    },
+    "Partners": {
+        "title": "Confían en Nosotros",
+        "subtitle": "Estamos orgullosos de trabajar con empresas increíbles."
+    },
+    "Portfolio": {
+        "title": "Portafolio",
+        "subtitle": "Transformamos visiones en realidad digital. Explora un vistazo de nuestras creaciones.",
+        "filters": {
+            "all": "Todo",
+            "web": "App Web",
+            "ecommerce": "E-Commerce",
+            "saas": "SaaS",
+            "game": "Juego",
+            "tools": "Herramientas 3D"
+        }
+    },
+    "Team": {
+        "title": "Equipo",
+        "description": "En ServixerSpace estamos extremadamente felices con nuestro equipo, lleno de empleados hábiles y serviciales. No dudes en contactarnos si tienes alguna pregunta."
+    },
+    "Cta": {
+        "title": "¡Amamos nuestro trabajo!",
+        "description": "A ServixerSpace le encanta ayudar a las empresas a conseguir más clientes. Por lo tanto, nos apasiona identificar las necesidades de nuestros clientes y brindar soporte a largo plazo.",
+        "button": "Reserva una Reunión Ahora"
+    },
+    "Contact": {
+        "title": "Contacto",
+        "description": "Si deseas ponerte en contacto con nosotros, tienes varias opciones. Estamos listos para ayudarte tanto en línea como en nuestra oficina en Odense C.",
+        "locationTitle": "Ubicación:",
+        "locationText": "Skibhusvej 109, Odense, Dinamarca",
+        "emailTitle": "Correo:",
+        "emailText": "info@servixerspace.com",
+        "phoneTitle": "Llamar:",
+        "phoneText": "+45 42 22 31 10",
+        "formName": "Tu Nombre",
+        "formEmail": "Tu Correo",
+        "formSubject": "Asunto",
+        "formMessage": "Mensaje",
+        "formButton": "Enviar Mensaje",
+        "offerTitle": "Obtén un presupuesto para tu proyecto",
+        "offerDesc": "Estamos listos para resolver tareas grandes y pequeñas. Llama a Franz al +45 26 27 49 72 o completa el formulario, y nos pondremos en contacto contigo lo antes posible.",
+        "taskDescLabel": "Describe tu tarea",
+        "taskDescPlaceholder": "(Obligatorio)",
+        "fileUploadLabel": "Subir archivo (opcional)",
+        "dropFileText": "Suelta el archivo aquí o",
+        "chooseFileText": "Elegir archivos",
+        "noFileChosen": "Ningún archivo elegido",
+        "fileLimits": "Tamaño máx. de archivo: 100 MB, Máx. archivos: 25."
+    },
+    "Faq": {
+        "title": "Preguntas Frecuentes",
+        "subtitle": "Todo lo que necesitas saber sobre trabajar con nosotros.",
+        "q1Title": "¿Cuánto tiempo toma un proyecto típico?",
+        "q1Desc": "El cronograma depende de la complejidad del proyecto. Un sitio web estándar suele tardar de 4 a 6 semanas, mientras que las aplicaciones o software más complejos pueden tardar de 3 a 6 meses. Proporcionamos un cronograma detallado durante la fase de descubrimiento.",
+        "q2Title": "¿Cuál es su modelo de precios?",
+        "q2Desc": "Ofrecemos cotizaciones de proyectos de precio fijo y acuerdos de tarifa por hora, dependiendo de lo que mejor se adapte a tus necesidades. Creemos en la transparencia, por lo que no hay tarifas ocultas.",
+        "q3Title": "¿Ofrecen soporte posterior al lanzamiento?",
+        "q3Desc": "Absolutamente. Ofrecemos varios paquetes de mantenimiento para asegurar que tu producto digital permanezca seguro, actualizado y optimizado después del lanzamiento.",
+        "q4Title": "¿Pueden ayudar con branding/marketing?",
+        "q4Desc": "¡Sí! Somos una agencia de servicio completo. Podemos manejar todo, desde el diseño de logotipos e identidad de marca hasta SEO, marketing en redes sociales y estrategia de contenido."
+    },
+    "Blog": {
+        "title": "Últimas Perspectivas",
+        "subtitle": "Noticias, tendencias y experiencia de nuestro equipo.",
+        "readMore": "Leer Artículo"
+    },
+    "Footer": {
+        "address": "Skibhusvej 109, 5000 Odense, Dinamarca",
+        "phone": "+45 42 22 31 10",
+        "email": "servixerspace@gmail.com",
+        "usefulLinks": "Enlaces Útiles",
+        "servicesLinks": "Nuestros Servicios",
+        "newsletter": "Boletín",
+        "newsletterText": "Suscríbete a nuestro boletín para recibir las últimas actualizaciones.",
+        "subscribe": "Suscribirse",
+        "copyright": "Servixer Space",
+        "careers": "Carreras",
+        "caseStudies": "Casos de Estudio"
+    },
+    "Common": {
+        "bookMeeting": "Reserva una Reunión Ahora"
+    },
+    "ServiceDetails": {
+        "web": {
+            "title": "Diseño y Desarrollo Web",
+            "subtitle": "Creamos sitios web a medida de alta conversión utilizando las últimas tecnologías como React y Next.js, combinados con un diseño impresionante centrado en el usuario.",
+            "overviewTitle": "El Diseño se encuentra con la Tecnología",
+            "description": "No solo construimos sitios web; creamos experiencias digitales. Al fusionar el diseño web profesional con un desarrollo robusto, aseguramos que tu sitio no solo sea hermoso, sino también rápido, seguro y escalable. Ya sea que necesites una página de destino simple o un portal corporativo complejo, cubrimos tanto los aspectos visuales como técnicos a la perfección.",
+            "featuresTitle": "¿Por qué elegirnos?",
+            "features": [
+                {
+                    "title": "Diseño Personalizado",
+                    "desc": "Diseños únicos creados específicamente para tu identidad de marca, nunca plantillas genéricas."
+                },
+                {
+                    "title": "Alto Rendimiento",
+                    "desc": "Construido sobre marcos modernos para tiempos de carga ultrarrápidos y ventaja SEO."
+                },
+                {
+                    "title": "Responsive y Mobile-First",
+                    "desc": "Experiencia impecable en todos los dispositivos, desde monitores de escritorio hasta teléfonos inteligentes."
+                },
+                {
+                    "title": "UX Centrada en el Usuario",
+                    "desc": "Navegación y estructura diseñadas para convertir visitantes en clientes leales."
+                }
+            ],
+            "processTitle": "Nuestro Proceso",
+            "process": [
+                {
+                    "title": "Descubrimiento",
+                    "desc": "Escuchamos tus necesidades, entendemos tu marca y definimos el alcance del proyecto."
+                },
+                {
+                    "title": "Diseño y Prototipo",
+                    "desc": "Creamos maquetas visuales y esquemas para tu aprobación antes de escribir una sola línea de código."
+                },
+                {
+                    "title": "Desarrollo",
+                    "desc": "Construimos el sitio utilizando código limpio y semántico, asegurando las mejores prácticas y rendimiento."
+                },
+                {
+                    "title": "Lanzamiento y Soporte",
+                    "desc": "Manejamos la implementación y brindamos soporte continuo para mantener tu sitio funcionando sin problemas."
+                }
+            ],
+            "ctaTitle": "¿Listo para un nuevo sitio web?",
+            "ctaDesc": "Construyamos algo increíble juntos."
+        },
+        "app": {
+            "title": "Desarrollo de Apps",
+            "subtitle": "Aplicaciones móviles nativas y multiplataforma para iOS y Android que generan valor y compromiso para tu negocio.",
+            "overviewTitle": "Soluciones Mobile-First",
+            "description": "Construimos aplicaciones móviles de alta calidad que a los usuarios les encantan. Desde el concepto hasta el lanzamiento, manejamos todo: diseño UI/UX, desarrollo e implementación en tiendas de aplicaciones. Nos aseguramos de que tu aplicación sea intuitiva, rápida y escalable.",
+            "featuresTitle": "Características Clave",
+            "features": [
+                {
+                    "title": "Multiplataforma",
+                    "desc": "Una base de código para iOS y Android utilizando tecnologías como React Native."
+                },
+                {
+                    "title": "Rendimiento Nativo",
+                    "desc": "Animaciones fluidas y tiempos de respuesta rápidos que se sienten realmente nativos."
+                },
+                {
+                    "title": "Arquitectura Escalable",
+                    "desc": "Construido para crecer con tu base de usuarios sin comprometer el rendimiento."
+                },
+                {
+                    "title": "Optimización de App Store",
+                    "desc": "Te ayudamos a ser descubierto en la App Store y Google Play."
+                }
+            ],
+            "processTitle": "Viaje de Desarrollo",
+            "process": [
+                {
+                    "title": "Concepto",
+                    "desc": "Refinamos tu idea y definimos las características principales y el flujo de usuarios."
+                },
+                {
+                    "title": "Diseño",
+                    "desc": "Creamos diseños UI/UX intuitivos que se alinean con las mejores prácticas móviles."
+                },
+                {
+                    "title": "Desarrollo",
+                    "desc": "Nuestro equipo construye la aplicación con código limpio y mantenible."
+                },
+                {
+                    "title": "Lanzamiento",
+                    "desc": "Te guiamos a través del proceso de envío para las tiendas de Apple y Google."
+                }
+            ],
+            "ctaTitle": "¿Tienes una idea para una app?",
+            "ctaDesc": "Hagamos realidad tu concepto."
+        },
+        "marketing": {
+            "title": "Marketing Digital y SEO",
+            "subtitle": "Un enfoque integral para la visibilidad en línea. Combinamos estrategias de SEO basadas en datos con una gestión efectiva de redes sociales para hacer crecer tu negocio.",
+            "overviewTitle": "Domina el Espacio Digital",
+            "description": "Nuestro servicio de Marketing Digital es un híbrido poderoso de SEO (Optimización para Motores de Búsqueda), Gestión de Redes Sociales (SoMe) y publicidad dirigida. No solo conseguimos tráfico para ti; conseguimos el tráfico *correcto*. Desde clasificar #1 en Google hasta atraer audiencias en Instagram y LinkedIn, manejamos toda tu huella digital.",
+            "featuresTitle": "Nuestras Estrategias",
+            "features": [
+                {
+                    "title": "SEO Avanzado",
+                    "desc": "Estrategia de palabras clave, optimización técnica y construcción de enlaces para impulsar tu ranking en Google."
+                },
+                {
+                    "title": "Gestión de Redes Sociales",
+                    "desc": "Creación de contenido atractivo y gestión de comunidad para plataformas como Instagram, LinkedIn y Facebook."
+                },
+                {
+                    "title": "Marketing de Contenidos",
+                    "desc": "Contenido valioso que atrae y retiene a una audiencia claramente definida."
+                },
+                {
+                    "title": "Análisis de Datos",
+                    "desc": "Monitoreo y reportes continuos para refinar estrategias y maximizar el ROI."
+                }
+            ],
+            "processTitle": "Proceso de Crecimiento",
+            "process": [
+                {
+                    "title": "Auditoría y Estrategia",
+                    "desc": "Analizamos tu presencia actual y competidores para construir una hoja de ruta ganadora."
+                },
+                {
+                    "title": "Optimización",
+                    "desc": "Corregimos problemas técnicos y optimizamos tus perfiles y sitio web para la visibilidad."
+                },
+                {
+                    "title": "Contenido y Alcance",
+                    "desc": "Ejecutamos el plan de contenido y comenzamos a construir autoridad a través del alcance."
+                },
+                {
+                    "title": "Escalado",
+                    "desc": "Analizamos los datos y escalamos las campañas que están dando resultados."
+                }
+            ],
+            "ctaTitle": "¿Listo para crecer?",
+            "ctaDesc": "Obtén un análisis de marketing digital gratuito hoy mismo."
+        },
+        "software": {
+            "title": "Desarrollo de Software a Medida",
+            "subtitle": "Soluciones de software personalizadas diseñadas para agilizar tus procesos comerciales únicos y mejorar la eficiencia.",
+            "overviewTitle": "Construido para tu Negocio",
+            "description": "El software comercial a menudo se queda corto. Construimos soluciones de software personalizadas—desde paneles internos y sistemas CRM hasta herramientas de automatización—que se ajustan perfectamente a tu flujo de trabajo. Nos enfocamos en resolver tus desafíos comerciales específicos con tecnología robusta y segura.",
+            "featuresTitle": "¿Por qué Software a Medida?",
+            "features": [
+                {
+                    "title": "Ajuste Perfecto",
+                    "desc": "Características diseñadas exactamente para tus necesidades, sin excesos innecesarios."
+                },
+                {
+                    "title": "Integración",
+                    "desc": "Se conecta perfectamente con tus herramientas y API existentes."
+                },
+                {
+                    "title": "Seguridad",
+                    "desc": "Construido con estándares de seguridad de nivel empresarial para proteger tus datos."
+                },
+                {
+                    "title": "Propiedad",
+                    "desc": "Eres dueño del código y la propiedad intelectual, sin tarifas de licencia recurrentes."
+                }
+            ],
+            "processTitle": "Cómo Construimos",
+            "process": [
+                {
+                    "title": "Análisis",
+                    "desc": "Mapeamos tus flujos de trabajo actuales e identificamos cuellos de botella."
+                },
+                {
+                    "title": "Arquitectura",
+                    "desc": "Diseñamos una arquitectura de sistema escalable adaptada a tus objetivos."
+                },
+                {
+                    "title": "Desarrollo Ágil",
+                    "desc": "Construimos en sprints iterativos, dándote visibilidad y bucles de retroalimentación."
+                },
+                {
+                    "title": "Implementación",
+                    "desc": "Implementamos la solución y capacitamos a tu equipo sobre cómo usarla de manera efectiva."
+                }
+            ],
+            "ctaTitle": "¿Necesitas una solución personalizada?",
+            "ctaDesc": "Cuéntanos sobre tus desafíos y construiremos la solución."
+        },
+        "graphic": {
+            "title": "Diseño Gráfico Creativo",
+            "subtitle": "Desde logotipos hasta identidades visuales completas, creamos gráficos impresionantes que cuentan la historia de tu marca.",
+            "overviewTitle": "Impacto Visual",
+            "description": "Tu identidad visual es la cara de tu negocio. Creamos diseños originales y memorables tanto para medios impresos como digitales. Ya sea que necesites un nuevo logotipo, tarjetas de visita, folletos o activos para redes sociales, nuestro equipo creativo asegura que tu marca se vea profesional y consistente.",
+            "featuresTitle": "Servicios de Diseño",
+            "features": [
+                {
+                    "title": "Identidad de Marca",
+                    "desc": "Logotipos, tipografía y paletas de colores que definen tu marca."
+                },
+                {
+                    "title": "Materiales de Marketing",
+                    "desc": "Folletos, volantes, carteles y anuncios digitales que captan la atención."
+                },
+                {
+                    "title": "Elementos UI",
+                    "desc": "Iconos, botones e ilustraciones para tus productos digitales."
+                },
+                {
+                    "title": "Diseño de Impresión",
+                    "desc": "Archivos listos para imprimir de alta calidad para todos tus activos físicos."
+                }
+            ],
+            "processTitle": "Proceso Creativo",
+            "process": [
+                {
+                    "title": "Briefing",
+                    "desc": "Discutimos tu visión, preferencias de estilo y público objetivo."
+                },
+                {
+                    "title": "Concepto",
+                    "desc": "Creamos mood boards y bocetos iniciales para explorar direcciones."
+                },
+                {
+                    "title": "Refinamiento",
+                    "desc": "Pulimos el concepto elegido basándonos en tus comentarios."
+                },
+                {
+                    "title": "Entrega",
+                    "desc": "Entregamos todos los archivos fuente y formatos que necesitas para impresión y web."
+                }
+            ],
+            "ctaTitle": "¿Necesitas un diseñador?",
+            "ctaDesc": "Hagamos que tu marca se vea de clase mundial."
+        },
+        "video": {
+            "title": "Producción de Video",
+            "subtitle": "Producción de video y animación profesional que capta la atención y cuenta tu historia de manera efectiva.",
+            "overviewTitle": "Narración en Movimiento",
+            "description": "El video es la forma de contenido más atractiva. Producimos videos de alta calidad, desde explicativos corporativos y comerciales hasta fragmentos para redes sociales y animaciones. Manejamos toda la línea de producción, asegurando un resultado cinematográfico que se alinee con tus objetivos de marketing.",
+            "featuresTitle": "Servicios de Producción",
+            "features": [
+                {
+                    "title": "Comerciales",
+                    "desc": "Comerciales de alta gama para TV y publicidad en línea."
+                },
+                {
+                    "title": "Animación",
+                    "desc": "Gráficos en movimiento 2D y 3D para explicar conceptos complejos de manera simple."
+                },
+                {
+                    "title": "Video Corporativo",
+                    "desc": "Entrevistas, recorridos por oficinas y videos de cultura empresarial."
+                },
+                {
+                    "title": "Postproducción",
+                    "desc": "Edición profesional, corrección de color y diseño de sonido."
+                }
+            ],
+            "processTitle": "Pasos de Producción",
+            "process": [
+                {
+                    "title": "Preproducción",
+                    "desc": "Redacción de guiones, storyboarding y planificación del rodaje."
+                },
+                {
+                    "title": "Producción",
+                    "desc": "Filmación con cámaras profesionales, iluminación y equipo de audio."
+                },
+                {
+                    "title": "Postproducción",
+                    "desc": "Edición, adición de efectos y pulido del corte final."
+                },
+                {
+                    "title": "Entrega",
+                    "desc": "Entrega del video final en los formatos que necesitas."
+                }
+            ],
+            "ctaTitle": "Empezar a Filmar",
+            "ctaDesc": "Démosle vida a tu historia en la pantalla."
+        }
+    },
+    "Booking": {
+        "title": "Reservar una Llamada de Descubrimiento",
+        "subtitle": "Hablemos de cómo podemos ayudar a que tu negocio crezca. Elige un momento que te convenga.",
+        "steps": {
+            "service": "Servicio",
+            "date": "Fecha y hora",
+            "details": "Detalles",
+            "done": "Confirmación"
+        },
+        "services": {
+            "title": "¿En qué podemos ayudarte?",
+            "web": "Desarrollo Web",
+            "app": "Desarrollo de Apps",
+            "marketing": "Marketing Digital",
+            "other": "Otro / Consulta"
+        },
+        "calendar": {
+            "title": "Elige una Fecha",
+            "timeTitle": "Elige una Hora"
+        },
+        "form": {
+            "title": "Tu Información",
+            "name": "Nombre Completo",
+            "email": "Dirección de Correo",
+            "company": "Nombre de la Empresa (Opcional)",
+            "submit": "Confirmar Reserva"
+        },
+        "success": {
+            "title": "¡Reserva Recibida!",
+            "subtitle": "Hemos enviado una confirmación a tu correo. Esperamos hablar contigo.",
+            "home": "Volver al Inicio"
+        }
+    },
+    "Privacy": {
+        "title": "Política de Privacidad",
+        "lastUpdated": "Última actualización: 1 de enero de 2026",
+        "intro": "En ServixerSpace, nos comprometemos a proteger su privacidad y a manejar sus datos personales de manera transparente y segura. Esta Política de Privacidad explica cómo recopilamos, usamos, almacenamos y protegemos su información personal cuando utiliza nuestro sitio web o servicios.",
+        "sections": {
+            "1": {
+                "title": "1. Información que Recopilamos",
+                "content": "Podemos recopilar y procesar los siguientes tipos de datos personales:\n• Nombre, dirección de correo electrónico, número de teléfono\n• Nombre de la empresa y detalles del proyecto (si se proporcionan)\n• Mensajes y comunicaciones enviados a través de formularios de contacto o correo electrónico\n• Información de suscripción al boletín\n• Datos técnicos como dirección IP, tipo de navegador, información del dispositivo y datos de uso\n\nSolo recopilamos los datos personales necesarios para fines comerciales legítimos."
+            },
+            "2": {
+                "title": "2. Cómo Recopilamos Información",
+                "content": "Recopilamos datos personales cuando usted:\n• Nos contacta a través de formularios, correo electrónico o teléfono\n• Reserva una reunión o solicita un servicio\n• Se suscribe a nuestro boletín\n• Interactúa con nuestro sitio web\n\nAlgunos datos técnicos pueden recopilarse automáticamente a través de cookies y herramientas de análisis."
+            },
+            "3": {
+                "title": "3. Cómo Usamos Su Información",
+                "content": "Usamos sus datos personales para:\n• Proporcionar y gestionar nuestros servicios\n• Comunicarnos con usted sobre consultas o proyectos\n• Mejorar nuestro sitio web, servicios y experiencia del usuario\n• Enviar actualizaciones, ofertas o boletines relevantes (solo si da su consentimiento)\n• Garantizar la seguridad y prevenir fraudes\n\nProcesamos sus datos basándonos en intereses legítimos, necesidad contractual o su consentimiento, de acuerdo con el RGPD."
+            },
+            "4": {
+                "title": "4. Compartir Información",
+                "content": "No vendemos, alquilamos ni intercambiamos sus datos personales.\n\nSus datos solo pueden compartirse con:\n• Proveedores de servicios de confianza (alojamiento, correo electrónico, análisis)\n• Autoridades legales o reguladoras si así lo exige la ley\n\nSe requiere que todos los terceros cumplan con las regulaciones de protección de datos."
+            },
+            "5": {
+                "title": "5. Almacenamiento y Seguridad de Datos",
+                "content": "Implementamos medidas técnicas y organizativas adecuadas para proteger sus datos personales contra el acceso no autorizado, alteración, divulgación o destrucción.\n\nSus datos personales se almacenan solo durante el tiempo necesario para cumplir con los propósitos descritos en esta política o según lo requiera la ley."
+            },
+            "6": {
+                "title": "6. Cookies",
+                "content": "Nuestro sitio web puede utilizar cookies para mejorar la experiencia del usuario y analizar el rendimiento del sitio web.\n\nPuede gestionar o desactivar las cookies a través de la configuración de su navegador. El uso continuado de nuestro sitio web implica el consentimiento de nuestro uso de cookies."
+            },
+            "7": {
+                "title": "7. Sus Derechos de Protección de Datos (RGPD)",
+                "content": "Como residente de la UE, tiene derecho a:\n• Acceder a sus datos personales\n• Solicitar la corrección o eliminación de sus datos\n• Restringir u oponerse al procesamiento de datos\n• Retirar el consentimiento en cualquier momento\n• Solicitar la portabilidad de datos\n• Presentar una queja ante una autoridad de protección de datos\n\nPara ejercer estos derechos, contáctenos utilizando los detalles a continuación."
+            },
+            "8": {
+                "title": "8. Enlaces de Terceros",
+                "content": "Nuestro sitio web puede contener enlaces a sitios web externos. No somos responsables de las prácticas de privacidad o el contenido de sitios de terceros."
+            },
+            "9": {
+                "title": "9. Cambios a Esta Política",
+                "content": "Podemos actualizar esta Política de Privacidad de vez en cuando. Cualquier cambio se publicará en esta página con una fecha de revisión actualizada."
+            },
+            "10": {
+                "title": "10. Información de Contacto",
+                "content": "Si tiene alguna pregunta sobre esta Política de Privacidad o cómo procesamos sus datos personales, contáctenos:\n\nServixerSpace\nSkibhusvej 109\n5000 Odense, Dinamarca\n\n📧 Correo electrónico: servixerspace@gmail.com\n📞 Teléfono: +45 42 22 31 10"
+            },
+            "11": {
+                "title": "11. Información de la Compañía",
+                "content": "Nombre Legal: ServixerSpace\nNúmero CVR: 38804596\nNúmero CVRP: 1026842499\nFecha de Establecimiento: 24 de febrero de 2021\nTipo de Compañía: Unidad de Producción\nIndustria: 741200 – Diseño Gráfico y Comunicación Visual"
+            }
+        }
+    },
+    "Terms": {
+        "title": "Términos de Servicio",
+        "lastUpdated": "Última actualización: 1 de enero de 2026",
+        "intro": "Bienvenido a ServixerSpace. Al acceder o utilizar nuestro sitio web y servicios, usted acepta los siguientes Términos de Servicio.",
+        "sections": {
+            "1": {
+                "title": "Uso de los Servicios",
+                "content": "Usted acepta utilizar nuestros servicios solo para fines legales y de acuerdo con las leyes y regulaciones aplicables."
+            },
+            "2": {
+                "title": "Propiedad Intelectual",
+                "content": "Todo el contenido, diseños, gráficos, texto, videos y código en este sitio web son propiedad de ServixerSpace a menos que se indique lo contrario. El uso no autorizado está prohibido."
+            },
+            "3": {
+                "title": "Responsabilidades del Cliente",
+                "content": "Los clientes son responsables de proporcionar información precisa y los materiales necesarios requeridos para prestar los servicios."
+            },
+            "4": {
+                "title": "Pagos y Proyectos",
+                "content": "Los términos de pago, el alcance del proyecto, los plazos y los entregables se acordarán individualmente en acuerdos o propuestas por escrito."
+            },
+            "5": {
+                "title": "Limitación de Responsabilidad",
+                "content": "ServixerSpace no será responsable de ningún daño indirecto, incidental o consecuente que surja del uso de nuestros servicios o sitio web."
+            },
+            "6": {
+                "title": "Terminación",
+                "content": "Nos reservamos el derecho de suspender o terminar el acceso a nuestros servicios si se violan estos términos."
+            },
+            "7": {
+                "title": "Cambios a los Términos",
+                "content": "Podemos actualizar estos Términos de Servicio en cualquier momento. El uso continuado de nuestros servicios constituye la aceptación de los términos actualizados."
+            },
+            "8": {
+                "title": "Ley Aplicable",
+                "content": "Estos términos se rigen por las leyes de Dinamarca."
+            },
+            "9": {
+                "title": "Información de la Compañía",
+                "content": "Nombre Legal: ServixerSpace\nNúmero CVR: 38804596\nNúmero CVRP: 1026842499\nFecha de Establecimiento: 24 de febrero de 2021\nTipo de Compañía: Unidad de Producción\nIndustria: 741200 – Diseño Gráfico y Comunicación Visual"
+            }
+        }
+    },
+    "NotFound": {
+        "title": "Página no encontrada",
+        "description": "Lo sentimos, no pudimos encontrar la página que buscas. Pudo haber sido movida o no existe.",
+        "backButton": "Volver al Inicio"
+    },
+    "CompanyInfo": {
+        "title": "Información de la Compañía",
+        "legalName": "Nombre Legal: ServixerSpace",
+        "cvr": "Número CVR: 38804596",
+        "cvrp": "Número CVRP: 1026842499",
+        "established": "Fecha de Establecimiento: 24 de febrero de 2021",
+        "type": "Tipo de Compañía: Unidad de Producción",
+        "industry": "Industria: 741200 – Diseño Gráfico y Comunicación Visual"
+    },
+    "Careers": {
+        "title": "Únete a Nuestro Equipo",
+        "subtitle": "Construyendo el Futuro de las Experiencias Digitales",
+        "description": "En ServixerSpace, no solo construimos sitios web; creamos legados digitales. Buscamos innovadores apasionados para unirse a nuestro equipo remoto.",
+        "benefitsTitle": "¿Por qué unirte a nosotros?",
+        "benefits": {
+            "1": "Cultura Remota",
+            "2": "Salario Competitivo",
+            "3": "Aprendizaje y Desarrollo",
+            "4": "Horarios Flexibles"
+        },
+        "openingsTitle": "Posiciones Abiertas",
+        "apply": "Aplicar Ahora",
+        "noOpenings": "No hay vacantes específicas en este momento, pero siempre buscamos talento. ¡Envíanos tu portafolio!",
+        "jobs": {
+            "1": {
+                "title": "Desarrollador Frontend Senior",
+                "type": "Tiempo completo",
+                "location": "Remoto",
+                "description": "Necesitamos un experto en React/Next.js para liderar nuestra arquitectura frontend."
+            },
+            "2": {
+                "title": "Diseñador UI/UX",
+                "type": "Contrato",
+                "location": "Remoto",
+                "description": "Crea diseños impresionantes centrados en el usuario para nuestros clientes globales."
+            }
+        }
+    },
+    "CaseStudies": {
+        "title": "Casos de Estudio",
+        "subtitle": "Nuestro Impacto en Números e Historias",
+        "description": "Mira cómo hemos ayudado a las empresas a transformar su presencia digital y lograr un ROI medible.",
+        "problem": "El Problema",
+        "solution": "La Solución",
+        "result": "El Resultado",
+        "readMore": "Leer Caso de Estudio Completo",
+        "studies": {
+            "1": {
+                "title": "Experiencia Digital Auténtica",
+                "client": "Den Italienske Isbutik",
+                "problem": "Una heladería local muy querida que carecía de una presencia digital a la altura de su calidad auténtica premium.",
+                "solution": "Se desarrolló un sitio Gatsby de alto rendimiento con Contentful CMS, con imágenes ricas y una historia de marca inmersiva.",
+                "result": "Se estableció una fuerte identidad de marca en línea y se aumentó significativamente el tráfico presencial y las consultas de catering."
+            },
+            "2": {
+                "title": "Plataforma de Gestión Empresarial",
+                "client": "Buddyhood",
+                "problem": "Las empresas luchaban con herramientas fragmentadas para la gestión, lo que generaba ineficiencia y silos de datos.",
+                "solution": "Se construyó una plataforma de gestión integral utilizando Vue.js y Laravel, integrando múltiples funciones comerciales en una interfaz intuitiva.",
+                "result": "Se optimizaron las operaciones para los usuarios, reduciendo el tiempo administrativo en un 40% y mejorando la accesibilidad a los datos."
+            },
+            "3": {
+                "title": "Ecosistema de Viajes Todo en Uno",
+                "client": "ExploreEase",
+                "problem": "Los viajeros luchan con herramientas de planificación fragmentadas, mientras que las empresas carecen de una plataforma unificada para llegar a ellos directamente.",
+                "solution": "Desarrolló un ecosistema escalable con sistemas integrados de Administración, Usuario y B2B para una planificación fluida y ventas directas.",
+                "result": "Planificación de viajes simplificada, apertura de nuevos canales de venta B2B y gestión centralizada de la plataforma."
+            },
+            "4": {
+                "title": "Super App de Movilidad Urbana",
+                "client": "Triply",
+                "problem": "Los usuarios urbanos dependen de múltiples aplicaciones desconectadas para transporte, entrega de comida y mensajería, lo que genera fricción e ineficiencia.",
+                "solution": "Diseño y desarrollo de una super aplicación moderna que une viajes, comida y entregas en un ecosistema fluido con sistemas dedicados para Usuario, Conductor y Comerciante.",
+                "result": "Vida urbana simplificada para los usuarios, creación de nuevas oportunidades de ingresos para conductores y crecimiento digital escalable para empresas locales."
+            }
+        }
+    }
+}

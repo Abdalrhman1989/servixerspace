@@ -1,0 +1,574 @@
+{
+    "Navbar": {
+        "home": "Hjem",
+        "about": "Om os",
+        "services": "Ydelser",
+        "portfolio": "Portfolio",
+        "contact": "Kontakt",
+        "language": "Sprog",
+        "bookMeeting": "Book et Møde",
+        "careers": "Karriere",
+        "caseStudies": "Cases"
+    },
+    "Hero": {
+        "title": "Alt hvad du behøver for din",
+        "highlight": "forretningssucces",
+        "subtitle": "Vi er et hold af talentfulde designere, certificerede udviklere, skarpe projektledere og erfarne filmproducenter.",
+        "cta": "Book et møde her"
+    },
+    "About": {
+        "title": "Om ServixerSpace",
+        "description": "Lær menneskene bag teknologien at kende.",
+        "paragraph1": "ServixerSpace arbejder ud fra konceptet om, at høj kvalitet er vejen til seernes hjerter. Og virksomheden har derfor sikret nogle af branchens bedste og mest dygtige folk på holdet.",
+        "list1": "Vores passion er at skabe uafhængige digitale løsninger, der hjælper vores kunder med at nå deres mål.",
+        "list2": "Vores kompetencer er strategi, rådgivning og analyse samt digital udvikling, design og filmproduktion.",
+        "list3": "Vores ambition er at skabe sikre og gennemsigtige samarbejder bygget på værdiskabelse og tillid.",
+        "quote": "Som kunde hos ServixerSpace skal du opleve kvalitet og tillid fra det første møde og gennem hele samarbejdet. Vi har en analytisk tilgang – og vinder kunder, fordi vi forstår deres forretning og deres udfordringer.",
+        "readMore": "Læs mere"
+    },
+    "Services": {
+        "title": "Vores Ydelser",
+        "subtitle": "Vi tilbyder en bred vifte af digitale løsninger skræddersyet til dine behov."
+    },
+    "Stats": {
+        "clients": "Tilfredse Kunder",
+        "projects": "Projekter",
+        "years": "Års Erfaring",
+        "awards": "Priser",
+        "quality": "Premium Kvalitet",
+        "qualityDesc": "Pixel-perfekte designs og robust kode.",
+        "delivery": "Agil Levering",
+        "deliveryDesc": "Hurtig levering uden at gå på kompromis med kvaliteten.",
+        "support": "24/7 Support",
+        "supportDesc": "Vi er altid her, når du har brug for os.",
+        "experts": "Certificeret Team",
+        "expertsDesc": "Et team af dedikerede branchefolk."
+    },
+    "Process": {
+        "title": "Sådan Arbejder Vi",
+        "subtitle": "Vores gennemprøvede 4-trins proces sikrer gennemsigtighed og kvalitet fra start til slut.",
+        "step1Title": "Opdagelse",
+        "step1Desc": "Vi starter med at forstå din virksomhed, dine mål og din målgruppe.",
+        "step2Title": "Strategi & Design",
+        "step2Desc": "Vi lægger en slagplan og designer prototyper, der matcher din vision.",
+        "step3Title": "Udvikling",
+        "step3Desc": "Vores udviklere bygger din løsning med moderne, skalerbare teknologier.",
+        "step4Title": "Lancering & Vækst",
+        "step4Desc": "Vi lancerer dit projekt og hjælper dig med at vokse gennem datadrevne indsigter."
+    },
+    "Partners": {
+        "title": "Betroet Af",
+        "subtitle": "Vi er stolte af at arbejde sammen med fantastiske virksomheder."
+    },
+    "Portfolio": {
+        "title": "Portefølje",
+        "subtitle": "Vi gør visioner til digital virkelighed. Udforsk et glimt af vores kreationer.",
+        "filters": {
+            "all": "Alle",
+            "web": "Web App",
+            "ecommerce": "E-handel",
+            "saas": "SaaS",
+            "game": "Spil",
+            "tools": "3D Værktøjer"
+        }
+    },
+    "Team": {
+        "title": "Team",
+        "description": "Vi hos ServixerSpace er utroligt glade for vores team, som er fyldt med dygtige og hjælpsomme medarbejdere. Tøv ikke med at kontakte os, hvis du har spørgsmål."
+    },
+    "Cta": {
+        "title": "Vi elsker vores arbejde!",
+        "description": "ServixerSpace elsker at hjælpe virksomheder med at få flere kunder. Derfor brænder vi for at identificere vores kunders behov og levere langsigtet support.",
+        "button": "Book Møde Nu"
+    },
+    "Contact": {
+        "title": "Kontakt",
+        "description": "Hvis du vil i kontakt med os, har du flere muligheder. Vi er klar til at hjælpe dig både online og på vores kontor i Odense C.",
+        "locationTitle": "Lokation:",
+        "locationText": "Skibhusvej 109, Odense, Danmark",
+        "emailTitle": "Email:",
+        "emailText": "info@servixerspace.com",
+        "phoneTitle": "Ring:",
+        "phoneText": "+45 42 22 31 10",
+        "formName": "Dit Navn",
+        "formEmail": "Din Email",
+        "formSubject": "Emne",
+        "formMessage": "Besked",
+        "formButton": "Send Besked",
+        "offerTitle": "Få et prisoverslag på dit projekt",
+        "offerDesc": "Vi er klar til at løse både store og små opgaver. Ring til Franz på tlf. 26274972 eller udfyld formularen, så vender vi tilbage så hurtigt vi kan",
+        "taskDescLabel": "Beskriv din opgave",
+        "taskDescPlaceholder": "(Påkrævet)",
+        "fileUploadLabel": "Upload eventuelt fil",
+        "dropFileText": "Slip fil her eller",
+        "chooseFileText": "Vælg filer",
+        "noFileChosen": "Ingen fil valgt",
+        "fileLimits": "Maks. filstørrelse: 100 MB, Maks. antal filer: 25."
+    },
+    "Faq": {
+        "title": "Ofte Stillede Spørgsmål",
+        "subtitle": "Alt hvad du behøver at vide om at arbejde med os.",
+        "q1Title": "Hvor lang tid tager et typisk projekt?",
+        "q1Desc": "Tidslinjen afhænger af projektets kompleksitet. En standard hjemmeside tager typisk 4-6 uger, mens mere komplekse apps eller software kan tage 3-6 måneder. Vi leverer en detaljeret tidslinje under opstartsfasen.",
+        "q2Title": "Hvad er jeres prismodel?",
+        "q2Desc": "Vi tilbyder både fastpris-tilbud og timeprisaftaler, afhængigt af hvad der passer bedst til dine behov. Vi tror på gennemsigtighed, så der er ingen skjulte gebyrer.",
+        "q3Title": "Tilbyder I support efter lancering?",
+        "q3Desc": "Absolut. Vi tilbyder forskellige vedligeholdelsespakker for at sikre, at dit digitale produkt forbliver sikkert, opdateret og optimeret efter lancering.",
+        "q4Title": "Kan I hjælpe med branding/marketing?",
+        "q4Desc": "Ja! Vi er et full-service bureau. Vi kan håndtere alt fra logodesign og brandidentitet til SEO, markedsføring på sociale medier og indholdsstrategi."
+    },
+    "Blog": {
+        "title": "Seneste Indsigter",
+        "subtitle": "Nyheder, tendenser og ekspertise fra vores team.",
+        "readMore": "Læs Artikel"
+    },
+    "Footer": {
+        "address": "Skibhusvej 109, 5000 Odense, Danmark",
+        "phone": "+45 42 22 31 10",
+        "email": "servixerspace@gmail.com",
+        "usefulLinks": "Nyttige Links",
+        "servicesLinks": "Vores Ydelser",
+        "newsletter": "Nyhedsbrev",
+        "newsletterText": "Tilmeld dig vores nyhedsbrev for at få de seneste opdateringer.",
+        "subscribe": "Tilmeld",
+        "copyright": "Servixer Space",
+        "careers": "Karriere",
+        "caseStudies": "Cases"
+    },
+    "Common": {
+        "bookMeeting": "Book Møde Nu"
+    },
+    "ServiceDetails": {
+        "web": {
+            "title": "Webdesign & Udvikling",
+            "subtitle": "Vi skaber skræddersyede, højkonverterende hjemmesider ved hjælp af de nyeste teknologier som React og Next.js, kombineret med fantastisk, brugercentreret design.",
+            "overviewTitle": "Design Møder Teknologi",
+            "description": "Vi bygger ikke bare hjemmesider; vi skaber digitale oplevelser. Ved at forene professionelt webdesign med robust udvikling sikrer vi, at din side ikke kun er smuk, men også hurtig, sikker og skalerbar. Uanset om du har brug for en simpel landingsside eller en kompleks virksomhedsportal, dækker vi både de visuelle og tekniske aspekter sømløst.",
+            "featuresTitle": "Hvorfor Vælge Os?",
+            "features": [
+                {
+                    "title": "Skræddersyet Design",
+                    "desc": "Unikke layouts designet specifikt til din brandidentitet, aldrig generiske skabeloner."
+                },
+                {
+                    "title": "Høj Ydeevne",
+                    "desc": "Bygget på moderne frameworks for lynhurtige indlæsningstider og SEO-fordele."
+                },
+                {
+                    "title": "Responsiv & Mobile-First",
+                    "desc": "Fejlfri oplevelse på alle enheder, fra desktopskærme til smartphones."
+                },
+                {
+                    "title": "Brugercentreret UX",
+                    "desc": "Navigation og struktur designet til at konvertere besøgende til loyale kunder."
+                }
+            ],
+            "processTitle": "Vores Proces",
+            "process": [
+                {
+                    "title": "Opdagelse",
+                    "desc": "Vi lytter til dine behov, forstår dit brand og definerer projektets omfang."
+                },
+                {
+                    "title": "Design & Prototype",
+                    "desc": "Vi laver visuelle mockups og wireframes til din godkendelse, før vi skriver en enkelt linje kode."
+                },
+                {
+                    "title": "Udvikling",
+                    "desc": "Vi bygger siden med ren, semantisk kode, der sikrer best practices og ydeevne."
+                },
+                {
+                    "title": "Lancering & Support",
+                    "desc": "Vi håndterer implementeringen og yder løbende support for at holde din side kørende problemfrit."
+                }
+            ],
+            "ctaTitle": "Klar til en ny hjemmeside?",
+            "ctaDesc": "Lad os bygge noget fantastisk sammen."
+        },
+        "app": {
+            "title": "App Udvikling",
+            "subtitle": "Native og tværplatform mobilapplikationer til iOS og Android, der skaber værdi og engagement for din virksomhed.",
+            "overviewTitle": "Mobile-First Løsninger",
+            "description": "Vi bygger mobilapps af høj kvalitet, som brugerne elsker. Fra koncept til lancering håndterer vi alt—UI/UX design, udvikling og implementering i app stores. Vi sikrer, at din app er intuitiv, hurtig og skalerbar.",
+            "featuresTitle": "Nøglefunktioner",
+            "features": [
+                {
+                    "title": "Tværplatform",
+                    "desc": "Én kodebase til både iOS og Android ved hjælp af teknologier som React Native."
+                },
+                {
+                    "title": "Native Ydeevne",
+                    "desc": "Glatte animationer og hurtige svartider, der føles helt native."
+                },
+                {
+                    "title": "Skalerbar Arkitektur",
+                    "desc": "Bygget til at vokse med din brugerbase uden at gå på kompromis med ydeevnen."
+                },
+                {
+                    "title": "App Store Optimering",
+                    "desc": "Vi hjælper dig med at blive opdaget i App Store og Google Play."
+                }
+            ],
+            "processTitle": "Udviklingsrejse",
+            "process": [
+                {
+                    "title": "Koncept",
+                    "desc": "Vi forfiner din idé og definerer kernefunktionerne og brugerflowet."
+                },
+                {
+                    "title": "Design",
+                    "desc": "Vi skaber intuitive UI/UX designs, der stemmer overens med mobile best practices."
+                },
+                {
+                    "title": "Udvikling",
+                    "desc": "Vores team bygger appen med ren, vedligeholdelsesvenlig kode."
+                },
+                {
+                    "title": "Lancering",
+                    "desc": "Vi guider dig gennem indsendelsesprocessen til Apple og Google stores."
+                }
+            ],
+            "ctaTitle": "Har du en app idé?",
+            "ctaDesc": "Lad os gøre dit koncept til virkelighed."
+        },
+        "marketing": {
+            "title": "Digital Marketing & SEO",
+            "subtitle": "En omfattende tilgang til online synlighed. Vi kombinerer datadrevne SEO-strategier med effektiv Social Media Management for at vækste din virksomhed.",
+            "overviewTitle": "Dominér det Digitale Rum",
+            "description": "Vores digitale marketingservice er en stærk hybrid af SEO (Søgemaskineoptimering), Social Media Management (SoMe) og målrettet annoncering. Vi skaffer dig ikke bare trafik; vi skaffer dig den *rigtige* trafik. Fra at rangere #1 på Google til at engagere publikum på Instagram og LinkedIn håndterer vi hele dit digitale fodaftryk.",
+            "featuresTitle": "Vores Strategier",
+            "features": [
+                {
+                    "title": "Avanceret SEO",
+                    "desc": "Nøgleordsstrategi, teknisk optimering og linkbuilding for at booste dine Google-placeringer."
+                },
+                {
+                    "title": "Social Media Management",
+                    "desc": "Engagerende indholdsskabelse og community management for platforme som Instagram, LinkedIn og Facebook."
+                },
+                {
+                    "title": "Content Marketing",
+                    "desc": "Værdifuldt indhold, der tiltrækker og fastholder et klart defineret publikum."
+                },
+                {
+                    "title": "Dataanalyse",
+                    "desc": "Løbende overvågning og rapportering for at forfine strategier og maksimere ROI."
+                }
+            ],
+            "processTitle": "Vækstproces",
+            "process": [
+                {
+                    "title": "Audit & Strategi",
+                    "desc": "Vi analyserer din nuværende tilstedeværelse og konkurrenter for at bygge en vinderplan."
+                },
+                {
+                    "title": "Optimering",
+                    "desc": "Vi retter tekniske problemer og optimerer dine profiler og hjemmeside for synlighed."
+                },
+                {
+                    "title": "Indhold & Outreach",
+                    "desc": "Vi eksekverer indholdsplanen og begynder at opbygge autoritet gennem outreach."
+                },
+                {
+                    "title": "Skalering",
+                    "desc": "Vi analyserer dataene og skalerer de kampagner, der skaber resultater."
+                }
+            ],
+            "ctaTitle": "Klar til at vækste?",
+            "ctaDesc": "Få en gratis digital markedsføringsanalyse i dag."
+        },
+        "software": {
+            "title": "Kundeorienteret Softwareudvikling",
+            "subtitle": "Skræddersyede softwareløsninger designet til at strømline dine unikke forretningsprocesser og forbedre effektiviteten.",
+            "overviewTitle": "Bygget til Din Virksomhed",
+            "description": "Standardsoftware kommer ofte til kort. Vi bygger skræddersyede softwareløsninger—fra interne dashboards og CRM-systemer til automatiseringsværktøjer—der passer perfekt til dit workflow. Vi fokuserer på at løse dine specifikke forretningsudfordringer med robust, sikker teknologi.",
+            "featuresTitle": "Hvorfor Skræddersyet Software?",
+            "features": [
+                {
+                    "title": "Perfekt Pasform",
+                    "desc": "Funktioner designet præcis til dine behov, uden unødvendigt fyld."
+                },
+                {
+                    "title": "Integration",
+                    "desc": "Forbinder problemfrit med dine eksisterende værktøjer og API'er."
+                },
+                {
+                    "title": "Sikkerhed",
+                    "desc": "Bygget med enterprise-grade sikkerhedsstandarder for at beskytte dine data."
+                },
+                {
+                    "title": "Ejerskab",
+                    "desc": "Du ejer koden og de intellektuelle rettigheder, ingen løbende licensgebyrer."
+                }
+            ],
+            "processTitle": "Hvordan Vi Bygger",
+            "process": [
+                {
+                    "title": "Analyse",
+                    "desc": "Vi kortlægger dine nuværende workflows og identificerer flaskehalse."
+                },
+                {
+                    "title": "Arkitektur",
+                    "desc": "Vi designer en skalerbar systemarkitektur skræddersyet til dine mål."
+                },
+                {
+                    "title": "Agil Udvikling",
+                    "desc": "Vi bygger i iterative sprints, hvilket giver dig synlighed og feedback-loops."
+                },
+                {
+                    "title": "Implementering",
+                    "desc": "Vi implementerer løsningen og træner dit team i at bruge den effektivt."
+                }
+            ],
+            "ctaTitle": "Har du brug for en speciel løsning?",
+            "ctaDesc": "Fortæl os om dine udfordringer, så bygger vi løsningen."
+        },
+        "graphic": {
+            "title": "Kreativ Grafisk Design",
+            "subtitle": "Fra logoer til komplette visuelle identiteter skaber vi fantastisk grafik, der fortæller dit brands historie.",
+            "overviewTitle": "Visuel Effekt",
+            "description": "Din visuelle identitet er din virksomheds ansigt. Vi skaber originale, mindeværdige designs til både print og digitale medier. Uanset om du har brug for et nyt logo, visitkort, brochurer eller aktiver til sociale medier, sikrer vores kreative team, at dit brand ser professionelt og konsekvent ud.",
+            "featuresTitle": "Design Services",
+            "features": [
+                {
+                    "title": "Brand Identitet",
+                    "desc": "Logoer, typografi og farvepaletter, der definerer dit brand."
+                },
+                {
+                    "title": "Markedsføringsmaterialer",
+                    "desc": "Brochurer, flyers, plakater og digitale annoncer, der fanger opmærksomheden."
+                },
+                {
+                    "title": "UI Elementer",
+                    "desc": "Ikoner, knapper og illustrationer til dine digitale produkter."
+                },
+                {
+                    "title": "Print Design",
+                    "desc": "Filer i høj kvalitet klar til tryk til alle dine fysiske aktiver."
+                }
+            ],
+            "processTitle": "Kreativ Proces",
+            "process": [
+                {
+                    "title": "Briefing",
+                    "desc": "Vi diskuterer din vision, stilpræferencer og målgruppe."
+                },
+                {
+                    "title": "Konceptudvikling",
+                    "desc": "Vi laver moodboards og indledende skitser for at udforske retninger."
+                },
+                {
+                    "title": "Forfinelse",
+                    "desc": "Vi pudser det valgte koncept af baseret på din feedback."
+                },
+                {
+                    "title": "Levering",
+                    "desc": "Vi leverer alle kildefiler og formater, du har brug for til print og web."
+                }
+            ],
+            "ctaTitle": "Mangler du en designer?",
+            "ctaDesc": "Lad os få dit brand til at se verdensklasse ud."
+        },
+        "video": {
+            "title": "Videoproduktion",
+            "subtitle": "Professionel video- og animationsproduktion, der fanger opmærksomheden og fortæller din historie effektivt.",
+            "overviewTitle": "Fortælling i Bevægelse",
+            "description": "Video er den mest engagerende form for indhold. Vi producerer videoer af høj kvalitet, fra virksomheds-explainers og reklamer til snippets til sociale medier og animationer. Vi håndterer hele produktionspipelinen og sikrer et cinematisk resultat, der stemmer overens med dine marketingmål.",
+            "featuresTitle": "Produktionsservices",
+            "features": [
+                {
+                    "title": "Reklamer",
+                    "desc": "High-end reklamer til TV og online annoncering."
+                },
+                {
+                    "title": "Animation",
+                    "desc": "2D og 3D motion graphics til at forklare komplekse koncepter enkelt."
+                },
+                {
+                    "title": "Virksomhedsvideo",
+                    "desc": "Interviews, kontorture og videoer om virksomhedskultur."
+                },
+                {
+                    "title": "Post-Produktion",
+                    "desc": "Professionel redigering, color grading og lyddesign."
+                }
+            ],
+            "processTitle": "Produktionstrin",
+            "process": [
+                {
+                    "title": "Pre-Produktion",
+                    "desc": "Manuskriptskrivning, storyboarding og planlægning af optagelsen."
+                },
+                {
+                    "title": "Produktion",
+                    "desc": "Optagelse med professionelle kameraer, belysning og lydudstyr."
+                },
+                {
+                    "title": "Post-Produktion",
+                    "desc": "Redigering, tilføjelse af effekter og finpudsning af det endelige klip."
+                },
+                {
+                    "title": "Levering",
+                    "desc": "Levering af den endelige video i de formater, du har brug for."
+                }
+            ],
+            "ctaTitle": "Start Optagelse",
+            "ctaDesc": "Lad os bringe din historie til live på skærmen."
+        }
+    },
+    "Booking": {
+        "title": "Book et Opkald",
+        "subtitle": "Lad os drøfte, hvordan vi kan hjælpe din virksomhed med at vokse. Vælg et tidspunkt, der passer dig.",
+        "steps": {
+            "service": "Service",
+            "date": "Dato & Tid",
+            "details": "Detaljer",
+            "done": "Bekræftelse"
+        },
+        "services": {
+            "title": "Hvad kan vi hjælpe dig med?",
+            "web": "Webudvikling",
+            "app": "App Udvikling",
+            "marketing": "Digital Marketing",
+            "other": "Andet / Rådgivning"
+        },
+        "calendar": {
+            "title": "Vælg en Dato",
+            "timeTitle": "Vælg et Tidspunkt"
+        },
+        "form": {
+            "title": "Dine Oplysninger",
+            "name": "Fulde Navn",
+            "email": "Email Adresse",
+            "company": "Virksomhedsnavn (Valgfrit)",
+            "submit": "Bekræft Booking"
+        },
+        "success": {
+            "title": "Booking Modtaget!",
+            "subtitle": "Vi har sendt en bekræftelse til din email. Vi ser frem til at tale med dig.",
+            "home": "Tilbage til Forsiden"
+        }
+    },
+    "Privacy": {
+        "title": "Privatlivspolitik",
+        "lastUpdated": "Senest opdateret: 1. januar 2026",
+        "intro": "Hos ServixerSpace tager vi beskyttelsen af dine personoplysninger alvorligt. Denne privatlivspolitik forklarer, hvordan vi indsamler, bruger og beskytter dine data.",
+        "sections": {
+            "1": {
+                "title": "Indsamling af oplysninger",
+                "content": "Vi indsamler personoplysninger, som du frivilligt giver os, f.eks. via kontaktformularer, e-mail, nyhedsbrev eller booking af møder."
+            },
+            "2": {
+                "title": "Anvendelse af oplysninger",
+                "content": "Dine oplysninger anvendes til:\n• Levering og forbedring af vores tjenester\n• Kommunikation og kundesupport\n• Markedsføring (kun med dit samtykke)\n• Analyse og sikkerhed"
+            },
+            "3": {
+                "title": "Dine rettigheder",
+                "content": "Du har ret til indsigt, rettelse, sletning og begrænsning af behandlingen af dine personoplysninger i henhold til GDPR.\n\nKontakt os for at udøve dine rettigheder."
+            },
+            "4": {
+                "title": "Virksomhedsoplysninger",
+                "content": "Juridisk navn: ServixerSpace\nCVR-nummer: 38804596\nCVRP-nummer: 1026842499\nStartdato: 24. februar 2021\nSelskabsform: Produktionsenhed\nNACE-branche: 741200 – Grafisk design og visuel kommunikation"
+            }
+        }
+    },
+    "Terms": {
+        "title": "Servicevilkår",
+        "lastUpdated": "Sidst opdateret: 1. januar 2026",
+        "intro": "Læs venligst disse servicevilkår omhyggeligt, før du bruger vores hjemmeside, der drives af ServixerSpace.",
+        "agreementTitle": "Accept af vilkår",
+        "agreementText": "Ved at få adgang til eller bruge vores tjeneste accepterer du at være bundet af disse vilkår. Hvis du er uenig i nogen del af vilkårene, må du ikke bruge tjenesten.",
+        "ipTitle": "Intellektuel ejendom",
+        "ipText": "Tjenesten og dens originale indhold, funktioner og funktionalitet er og forbliver den eksklusive ejendom tilhørende ServixerSpace og dets licensgivere.",
+        "changesTitle": "Ændringer af vilkår",
+        "changesText": "Vi forbeholder os retten til efter eget skøn at ændre eller erstatte disse vilkår til enhver tid.",
+        "sections": {
+            "1": {
+                "title": "Virksomhedsoplysninger",
+                "content": "Juridisk navn: ServixerSpace\nCVR-nummer: 38804596\nCVRP-nummer: 1026842499\nStartdato: 24. februar 2021\nSelskabsform: Produktionsenhed\nNACE-branche: 741200 – Grafisk design og visuel kommunikation"
+            }
+        }
+    },
+    "CompanyInfo": {
+        "title": "Virksomhedsoplysninger",
+        "legalName": "Juridisk navn: ServixerSpace",
+        "cvr": "CVR-nummer: 38804596",
+        "cvrp": "CVRP-nummer: 1026842499",
+        "established": "Startdato: 24. februar 2021",
+        "type": "Selskabsform: Produktionsenhed",
+        "industry": "NACE-branche: 741200 – Grafisk design og visuel kommunikation"
+    },
+    "NotFound": {
+        "title": "Siden blev ikke fundet",
+        "description": "Beklager, vi kunne ikke finde den side, du leder efter. Den kan være flyttet eller eksisterer ikke.",
+        "backButton": "Tilbage til Forsiden"
+    },
+    "Careers": {
+        "title": "Bliv en del af teamet",
+        "subtitle": "Vær med til at bygge fremtidens digitale oplevelser",
+        "description": "Hos ServixerSpace bygger vi ikke bare hjemmesider; vi skaber digitale succeshistorier. Vi leder efter passionerede innovatører til vores remote-first team.",
+        "benefitsTitle": "Hvorfor vælge os?",
+        "benefits": {
+            "1": "Remote-first kultur",
+            "2": "Konkurrencedygtig løn",
+            "3": "Læring & Udvikling",
+            "4": "Fleksible arbejdstider"
+        },
+        "openingsTitle": "Ledige stillinger",
+        "apply": "Ansøg Nu",
+        "noOpenings": "Ingen specifikke stillinger lige nu, men vi leder altid efter talent. Send os din portefølje!",
+        "jobs": {
+            "1": {
+                "title": "Senior Frontend Udvikler",
+                "type": "Fuldtid",
+                "location": "Remote",
+                "description": "Vi mangler en React/Next.js ekspert til at lede vores frontend arkitektur."
+            },
+            "2": {
+                "title": "UI/UX Designer",
+                "type": "Freelance",
+                "location": "Remote",
+                "description": "Skab betagende, brugercentrerede designs for vores globale kunder."
+            }
+        }
+    },
+    "CaseStudies": {
+        "title": "Kundecases",
+        "subtitle": "Vores indflydelse i tal og historier",
+        "description": "Se hvordan vi har hjulpet virksomheder med at transformere deres digitale tilstedeværelse og opnå målbar ROI.",
+        "problem": "Udfordringen",
+        "solution": "Løsningen",
+        "result": "Resultatet",
+        "readMore": "Læs Hele Casen",
+        "studies": {
+            "1": {
+                "title": "Autentisk Digital Oplevelse",
+                "client": "Den Italienske Isbutik",
+                "problem": "En elsket lokal isbutik, der manglede en digital tilstedeværelse for at matche deres premium autentiske kvalitet.",
+                "solution": "Udviklede et højtydende Gatsby-site med Contentful CMS, med rige visuelle elementer og en fordybende brandhistorie.",
+                "result": "Etablerede en stærk online brandidentitet og øgede markant besøgstallet og cateringforespørgsler."
+            },
+            "2": {
+                "title": "Forretningsstyringsplatform",
+                "client": "Buddyhood",
+                "problem": "Virksomheder kæmpede med fragmenterede værktøjer til styring, hvilket førte til ineffektivitet og datasiloer.",
+                "solution": "Byggede en omfattende styringsplatform ved hjælp af Vue.js og Laravel, der integrerer flere forretningsfunktioner i én intuitiv grænseflade.",
+                "result": "Strømlinede driften for brugere, reducerede administrativ tid med 40% og forbedrede datatilgængelighed."
+            },
+            "3": {
+                "title": "Alt-i-ét Rejseøkosystem",
+                "client": "ExploreEase",
+                "problem": "Rejsende kæmper med fragmenterede planlægningsværktøjer, mens virksomheder mangler en platform til at nå dem direkte.",
+                "solution": "Udviklede et skalerbart økosystem med integrerede Admin, Bruger og B2B-systemer for problemfri planlægning og direkte salg.",
+                "result": "Forenklet planlægning for brugere, åbnet B2B-salgskanaler og muliggjort centraliseret platformsstyring."
+            },
+            "4": {
+                "title": "Urban Mobilitet Super App",
+                "client": "Triply",
+                "problem": "Bybrugere er afhængige af flere separate apps til transport, madlevering og kurértjenester—hvilket fører til gnidninger og ineffektivitet.",
+                "solution": "Designede og udviklede en moderne super-app, der samler kørsel, mad og levering i ét problemfrit økosystem med dedikerede systemer til Bruger, Chauffør og Forhandler.",
+                "result": "Forenklet byliv for brugere, skabt nye indtjeningsmuligheder for chauffører og muliggjort skalerbar digital vækst for lokale virksomheder."
+            }
+        }
+    }
+}
