@@ -46,6 +46,15 @@ const getEmailTemplate = (title: string, content: string, isClient: boolean) => 
 `;
 
 export async function POST(req: Request) {
+    // Check for environment variable
+    if (!process.env.EMAIL_PASSWORD) {
+        console.error('SERVER CONFIGURATION ERROR: EMAIL_PASSWORD environment variable is missing.');
+        return NextResponse.json(
+            { message: 'Server configuration error: EMAIL_PASSWORD is missing', code: 'MISSING_CONFIG' },
+            { status: 500 }
+        );
+    }
+
     try {
         const formData = await req.formData();
 
@@ -137,8 +146,14 @@ export async function POST(req: Request) {
 
         return NextResponse.json({ message: 'Quote request sent successfully' }, { status: 200 });
 
-    } catch (error) {
+    } catch (error: any) {
         console.error('Error sending quote email:', error);
-        return NextResponse.json({ message: 'Failed to send quote request' }, { status: 500 });
+
+        // Return more specific error information
+        const errorMessage = error.message || 'Failed to send quote request';
+        return NextResponse.json(
+            { message: errorMessage, code: 'SEND_ERROR' },
+            { status: 500 }
+        );
     }
 }

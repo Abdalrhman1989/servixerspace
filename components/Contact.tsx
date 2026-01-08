@@ -50,6 +50,15 @@ export default function Contact() {
                 setFormData({ name: '', email: '', taskDescription: '' });
                 setFiles([]);
             } else {
+                // Try to get error details
+                const errorData = await res.json().catch(() => ({}));
+                console.error('Submission failed:', errorData);
+
+                // You could check errorData.code here if needed
+                if (errorData.code === 'MISSING_CONFIG') {
+                    alert('Configuration Error: The server is missing the EMAIL_PASSWORD environment variable.');
+                }
+
                 setSubmitStatus('error');
             }
         } catch (error) {
