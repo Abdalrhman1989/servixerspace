@@ -24,11 +24,14 @@ export default function Contact() {
         }
     };
 
+    const [errorMessage, setErrorMessage] = useState('');
+
     // Handle Submission
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
         setIsSubmitting(true);
         setSubmitStatus('idle');
+        setErrorMessage('');
 
         try {
             const data = new FormData();
@@ -54,15 +57,13 @@ export default function Contact() {
                 const errorData = await res.json().catch(() => ({}));
                 console.error('Submission failed:', errorData);
 
-                // You could check errorData.code here if needed
-                if (errorData.code === 'MISSING_CONFIG') {
-                    alert('Configuration Error: The server is missing the EMAIL_PASSWORD environment variable.');
-                }
-
+                const msg = errorData.message || 'Failed to send message. Please try again.';
+                setErrorMessage(msg);
                 setSubmitStatus('error');
             }
         } catch (error) {
             console.error('Error submitting form:', error);
+            setErrorMessage('An unexpected error occurred.');
             setSubmitStatus('error');
         } finally {
             setIsSubmitting(false);
@@ -188,7 +189,7 @@ export default function Contact() {
                                             className="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
                                         />
                                         <div className="p-3 bg-gray-100 dark:bg-slate-800 rounded-full mb-3 group-hover:bg-primary/10 transition-colors">
-                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-gray-400 dark:text-gray-500 group-hover:text-primary"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" /><polyline points="17 8 12 3 7 8" /><line x1="12" x2="12" y1="3" y2="15" /></svg>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-6 h-6 text-gray-400 dark:text-gray-500 group-hover:text-primary"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 0 0 1-2-2v-4" /><polyline points="17 8 12 3 7 8" /><line x1="12" x2="12" y1="3" y2="15" /></svg>
                                         </div>
                                         <p className="text-sm text-gray-600 dark:text-gray-400 mb-1">
                                             <span className="font-semibold text-primary">{t('chooseFileText')}</span> {t('dropFileText')}
@@ -213,7 +214,9 @@ export default function Contact() {
                                     <p className="text-green-600 text-center mt-2 font-medium">Message sent successfully!</p>
                                 )}
                                 {submitStatus === 'error' && (
-                                    <p className="text-red-500 text-center mt-2 font-medium">Failed to send message. Please try again.</p>
+                                    <p className="text-red-500 text-center mt-2 font-medium">
+                                        {errorMessage || 'Failed to send message. Please try again.'}
+                                    </p>
                                 )}
                             </form>
                         </div>
